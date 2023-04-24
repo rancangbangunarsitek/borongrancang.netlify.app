@@ -6,10 +6,10 @@
 	font-style: normal;
 	font-weight: normal;
 	font-display: auto;
-	src: url('https://borongrancang.cloudns.nz/wp-content/uploads/fonts/cremsl.eot');
-	src: url('https://borongrancang.cloudns.nz/wp-content/uploads/fonts/cremsl.eot?#iefix') format('embedded-opentype'),
-		url('https://borongrancang.cloudns.nz/wp-content/uploads/fonts/cremsl.woff') format('woff'),
-		url('https://borongrancang.cloudns.nz/wp-content/uploads/fonts/cremsl.ttf') format('truetype'),
-		url('https://borongrancang.cloudns.nz/wp-content/uploads/fonts/cremsl.ttf#CremmessiLight') format('svg');
+	src: url('https://borongrancang.netlify.app/wp-content/uploads/fonts/cremsl.eot');
+	src: url('https://borongrancang.netlify.app/wp-content/uploads/fonts/cremsl.eot?#iefix') format('embedded-opentype'),
+		url('https://borongrancang.netlify.app/wp-content/uploads/fonts/cremsl.woff') format('woff'),
+		url('https://borongrancang.netlify.app/wp-content/uploads/fonts/cremsl.ttf') format('truetype'),
+		url('https://borongrancang.netlify.app/wp-content/uploads/fonts/cremsl.ttf#CremmessiLight') format('svg');
 }
 /* End Custom Fonts CSS */
