@@ -1,0 +1,132 @@
+0000.727 () Opened log file at time: Fri, 24 Mar 2023 07:39:49 +0000 on https://rancangbangunarsitek.eu.org
+0000.728 () UpdraftPlus WordPress backup plugin (https://updraftplus.com): 2.16.58.25 WP: 5.9.5 PHP: 8.1.12 (apache2handler, Windows NT ASUS64 10.0 build 19042 (Windows 10) AMD64) MySQL: 10.4.27-MariaDB WPLANG: en_US Server: Apache/2.4.54 (Win64) OpenSSL/1.1.1p PHP/8.1.12 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 88M | 90M) multisite: N openssl: OpenSSL 1.1.1q  5 Jul 2022 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.728 () Free space on disk containing Updraft's temporary directory: 338396.9 MB
+0000.933 () Restore setup, now closing connection and starting restore over AJAX.
+0000.199 () Opened log file at time: Fri, 24 Mar 2023 07:39:53 +0000 on https://rancangbangunarsitek.eu.org
+0000.201 () UpdraftPlus WordPress backup plugin (https://updraftplus.com): 2.16.58.25 WP: 5.9.5 PHP: 8.1.12 (apache2handler, Windows NT ASUS64 10.0 build 19042 (Windows 10) AMD64) MySQL: 10.4.27-MariaDB WPLANG: en_US Server: Apache/2.4.54 (Win64) OpenSSL/1.1.1p PHP/8.1.12 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 84.4M | 86M) multisite: N openssl: OpenSSL 1.1.1q  5 Jul 2022 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.203 () Free space on disk containing Updraft's temporary directory: 338396.9 MB
+0000.257 () Ensuring WP_Filesystem is setup for a restore
+0000.261 () WP_Filesystem is setup and ready for a restore
+0000.376 () Restore job started. Entities to restore: db. Restore options: {"include_unspecified_tables":false,"tables_to_restore":["wp1s_options","wp1s_users","wp1s_usermeta","wp1s_commentmeta","wp1s_comments","wp1s_links","wp1s_postmeta","wp1s_posts","wp1s_term_relationships","wp1s_term_taxonomy","wp1s_termmeta","wp1s_terms","wp1s_ac_segments","wp1s_admin_columns","wp1s_bulk_edit","wp1s_jet_post_types","wp1s_jet_taxonomies","wp1s_pmxe_exports","wp1s_pmxe_google_cats","wp1s_pmxe_posts","wp1s_pmxe_templates","wp1s_pmxi_files","wp1s_pmxi_hash","wp1s_pmxi_history","wp1s_pmxi_images","wp1s_pmxi_imports","wp1s_pmxi_posts","wp1s_pmxi_templates","wp1s_wpie_template"],"tables_to_skip":[],"updraft_encryptionphrase":"","updraft_restorer_wpcore_includewpconfig":false,"updraft_incremental_restore_point":-1}
+0000.397 () Will not delete any archives after unpacking them, because there was no cloud storage for this backup
+0000.425 () Entity: db
+0000.425 () restore_backup(backup_file=backup_2023-03-24-0708_Rancang_Bangun_Arsitek_a76bfdc05659-db.gz, type=db, info=a:0:{}, last_one=1)
+0000.426 () Unpacking backup... (backup_2023-03-24-0708_Rancang_Bangun_Arsitek_a76bfdc05659-db.gz, 0.4 Mb)
+0000.427 () PHP event: code E_WARNING: mkdir(): File exists (line 545, D:\xampp81\htdocs\wp-admin\includes\class-wp-filesystem-direct.php)
+0000.431 () Database successfully unpacked
+0000.433 () Restoring the database (on a large site this can take a long time - if it times out (which can happen if your web hosting company has configured your hosting to limit resources) then you should use a different method, such as phpMyAdmin)...
+0000.434 () Using direct MySQL access; value of use_mysqli is: 1
+0000.436 () SQL compatibility mode is: NO_AUTO_VALUE_ON_ZERO,NO_ZERO_IN_DATE,NO_ENGINE_SUBSTITUTION
+0002.262 () Max packet size: 32 MB
+0002.262 () Entering maintenance mode
+0002.262 () Enabling Maintenance mode&#8230;
+0003.764 () Backup of: https://rancangbangunarsitek.eu.org
+0003.771 () Content URL: https://rancangbangunarsitek.eu.org/wp-content
+0003.772 () Uploads URL: https://rancangbangunarsitek.eu.org/wp-content/uploads
+0003.773 () Old table prefix: wp1s_
+0003.774 () Site information: multisite=0
+0003.775 () Site information: sql_mode=NO_ENGINE_SUBSTITUTION
+0003.784 () New table prefix: f5_
+0003.871 () Processing table (InnoDB): wp1s_options - will restore as: f5_options
+0005.252 () Atomic restore: dropping original table (rba_options)
+0005.501 () Atomic restore: renaming new table (f5_options) to final table name (rba_options)
+0005.677 () Restoring prior UD configuration (table: rba_options; keys: 4)
+0006.108 () Table prefix has changed: changing options table field(s) accordingly (options)
+0006.149 () Options table fields changed OK
+0006.163 () Processing table (InnoDB): wp1s_users - will restore as: f5_users
+0006.553 () Atomic restore: dropping original table (rba_users)
+0007.087 () Atomic restore: renaming new table (f5_users) to final table name (rba_users)
+0008.383 () Processing table (InnoDB): wp1s_usermeta - will restore as: f5_usermeta
+0009.385 () Atomic restore: dropping original table (rba_usermeta)
+0009.664 () Atomic restore: renaming new table (f5_usermeta) to final table name (rba_usermeta)
+0009.849 () Table prefix has changed: changing usermeta table field(s) accordingly
+0009.985 () Usermeta table fields changed OK
+0009.986 () Processing table (InnoDB): wp1s_commentmeta - will restore as: f5_commentmeta
+0010.256 () Atomic restore: dropping original table (rba_commentmeta)
+0010.501 () Atomic restore: renaming new table (f5_commentmeta) to final table name (rba_commentmeta)
+0010.665 () Processing table (InnoDB): wp1s_comments - will restore as: f5_comments
+0011.013 () Atomic restore: dropping original table (rba_comments)
+0011.200 () Atomic restore: renaming new table (f5_comments) to final table name (rba_comments)
+0011.605 () Processing table (InnoDB): wp1s_links - will restore as: f5_links
+0012.819 () Atomic restore: dropping original table (rba_links)
+0013.053 () Atomic restore: renaming new table (f5_links) to final table name (rba_links)
+0013.195 () Processing table (InnoDB): wp1s_postmeta - will restore as: f5_postmeta
+0015.579 () Atomic restore: dropping original table (rba_postmeta)
+0015.843 () Atomic restore: renaming new table (f5_postmeta) to final table name (rba_postmeta)
+0016.020 () Processing table (InnoDB): wp1s_posts - will restore as: f5_posts
+0019.137 () Atomic restore: dropping original table (rba_posts)
+0019.277 () Atomic restore: renaming new table (f5_posts) to final table name (rba_posts)
+0019.486 () Processing table (InnoDB): wp1s_term_relationships - will restore as: f5_term_relationships
+0020.693 () Atomic restore: dropping original table (rba_term_relationships)
+0020.841 () Atomic restore: renaming new table (f5_term_relationships) to final table name (rba_term_relationships)
+0020.993 () Processing table (InnoDB): wp1s_term_taxonomy - will restore as: f5_term_taxonomy
+0021.436 () Atomic restore: dropping original table (rba_term_taxonomy)
+0021.611 () Atomic restore: renaming new table (f5_term_taxonomy) to final table name (rba_term_taxonomy)
+0022.362 () Processing table (InnoDB): wp1s_termmeta - will restore as: f5_termmeta
+0024.489 () Atomic restore: dropping original table (rba_termmeta)
+0024.603 () Atomic restore: renaming new table (f5_termmeta) to final table name (rba_termmeta)
+0024.774 () Processing table (InnoDB): wp1s_terms - will restore as: f5_terms
+0026.905 () Atomic restore: dropping original table (rba_terms)
+0027.751 () Atomic restore: renaming new table (f5_terms) to final table name (rba_terms)
+0028.127 () Processing table (InnoDB): wp1s_ac_segments - will restore as: f5_ac_segments
+0028.843 () Atomic restore: dropping original table (rba_ac_segments)
+0029.470 () Atomic restore: renaming new table (f5_ac_segments) to final table name (rba_ac_segments)
+0031.344 () Processing table (InnoDB): wp1s_admin_columns - will restore as: f5_admin_columns
+0033.169 () Atomic restore: dropping original table (rba_admin_columns)
+0033.436 () Database queries processed: 50 in 33.00 seconds
+0033.436 () Atomic restore: renaming new table (f5_admin_columns) to final table name (rba_admin_columns)
+0033.933 () Processing table (InnoDB): wp1s_bulk_edit - will restore as: f5_bulk_edit
+0034.676 () Atomic restore: dropping original table (rba_bulk_edit)
+0035.180 () Atomic restore: renaming new table (f5_bulk_edit) to final table name (rba_bulk_edit)
+0035.547 () Processing table (InnoDB): wp1s_jet_post_types - will restore as: f5_jet_post_types
+0038.154 () Atomic restore: dropping original table (rba_jet_post_types)
+0038.468 () Atomic restore: renaming new table (f5_jet_post_types) to final table name (rba_jet_post_types)
+0038.770 () Processing table (InnoDB): wp1s_jet_taxonomies - will restore as: f5_jet_taxonomies
+0039.209 () Atomic restore: dropping original table (rba_jet_taxonomies)
+0039.424 () Atomic restore: renaming new table (f5_jet_taxonomies) to final table name (rba_jet_taxonomies)
+0039.701 () Processing table (InnoDB): wp1s_pmxe_exports - will restore as: f5_pmxe_exports
+0041.173 () Atomic restore: dropping original table (rba_pmxe_exports)
+0041.633 () Atomic restore: renaming new table (f5_pmxe_exports) to final table name (rba_pmxe_exports)
+0041.832 () Processing table (InnoDB): wp1s_pmxe_google_cats - will restore as: f5_pmxe_google_cats
+0044.885 () Atomic restore: dropping original table (rba_pmxe_google_cats)
+0045.426 () Atomic restore: renaming new table (f5_pmxe_google_cats) to final table name (rba_pmxe_google_cats)
+0045.773 () Processing table (InnoDB): wp1s_pmxe_posts - will restore as: f5_pmxe_posts
+0046.102 () Atomic restore: dropping original table (rba_pmxe_posts)
+0046.346 () Atomic restore: renaming new table (f5_pmxe_posts) to final table name (rba_pmxe_posts)
+0046.596 () Processing table (InnoDB): wp1s_pmxe_templates - will restore as: f5_pmxe_templates
+0047.100 () Atomic restore: dropping original table (rba_pmxe_templates)
+0048.513 () Atomic restore: renaming new table (f5_pmxe_templates) to final table name (rba_pmxe_templates)
+0048.799 () Processing table (InnoDB): wp1s_pmxi_files - will restore as: f5_pmxi_files
+0049.251 () Atomic restore: dropping original table (rba_pmxi_files)
+0049.696 () Atomic restore: renaming new table (f5_pmxi_files) to final table name (rba_pmxi_files)
+0049.913 () Processing table (InnoDB): wp1s_pmxi_hash - will restore as: f5_pmxi_hash
+0050.141 () Atomic restore: dropping original table (rba_pmxi_hash)
+0050.346 () Atomic restore: renaming new table (f5_pmxi_hash) to final table name (rba_pmxi_hash)
+0050.632 () Processing table (InnoDB): wp1s_pmxi_history - will restore as: f5_pmxi_history
+0050.983 () Atomic restore: dropping original table (rba_pmxi_history)
+0051.319 () Atomic restore: renaming new table (f5_pmxi_history) to final table name (rba_pmxi_history)
+0051.719 () Processing table (InnoDB): wp1s_pmxi_images - will restore as: f5_pmxi_images
+0053.088 () Atomic restore: dropping original table (rba_pmxi_images)
+0054.035 () Atomic restore: renaming new table (f5_pmxi_images) to final table name (rba_pmxi_images)
+0054.328 () Processing table (InnoDB): wp1s_pmxi_imports - will restore as: f5_pmxi_imports
+0054.876 () Atomic restore: dropping original table (rba_pmxi_imports)
+0055.125 () Atomic restore: renaming new table (f5_pmxi_imports) to final table name (rba_pmxi_imports)
+0055.364 () Processing table (InnoDB): wp1s_pmxi_posts - will restore as: f5_pmxi_posts
+0055.919 () Atomic restore: dropping original table (rba_pmxi_posts)
+0056.110 () Atomic restore: renaming new table (f5_pmxi_posts) to final table name (rba_pmxi_posts)
+0056.303 () Processing table (InnoDB): wp1s_pmxi_templates - will restore as: f5_pmxi_templates
+0056.593 () Atomic restore: dropping original table (rba_pmxi_templates)
+0057.146 () Atomic restore: renaming new table (f5_pmxi_templates) to final table name (rba_pmxi_templates)
+0058.366 () Processing table (InnoDB): wp1s_wpie_template - will restore as: f5_wpie_template
+0060.163 () PHP event: code E_WARNING: Only the first byte will be assigned to the string offset (line 617, D:\xampp81\htdocs\wp-content\plugins\updraftplus\includes\class-backup-history.php)
+0060.287 () Unlocking database and leaving maintenance mode
+0060.288 () Disabling Maintenance mode&#8230;
+0060.290 () Atomic restore: dropping original table (rba_wpie_template)
+0060.662 () Atomic restore: renaming new table (f5_wpie_template) to final table name (rba_wpie_template)
+0060.903 () Finished: lines processed: 95 in 60.46 seconds
+0060.906 () Cleaning up rubbish...
+0060.911 () Begin search and replace (updraftplus_restored_db)
+0060.911 () [Database-replace-site-url] Database: search and replace site URL
+0060.911 () This option was not selected.
+0061.421 () Restore successful!
+0061.422 () Restore successful

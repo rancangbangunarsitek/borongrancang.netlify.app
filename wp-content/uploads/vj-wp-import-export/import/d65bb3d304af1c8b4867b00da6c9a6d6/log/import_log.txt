@@ -1,0 +1,420 @@
+[08:06:36] <strong>Record</strong> #1
+[08:06:36] Existing item found #28
+[08:06:37] post #28 Successfully Imported
+[08:06:37] <strong>Record</strong> #2
+[08:06:37] Existing item found #205
+[08:06:37] post #205 Successfully Imported
+[08:06:37] <strong>Record</strong> #3
+[08:06:37] Existing item found #206
+[08:06:37] post #206 Successfully Imported
+[08:06:37] <strong>Record</strong> #4
+[08:06:37] Existing item found #207
+[08:06:38] post #207 Successfully Imported
+[08:06:38] <strong>Record</strong> #5
+[08:06:39] post #336 Successfully Imported
+[08:06:39] <strong>Record</strong> #6
+[08:06:39] Existing item found #208
+[08:06:39] post #208 Successfully Imported
+[08:06:39] <strong>Record</strong> #7
+[08:06:39] Existing item found #209
+[08:06:41] post #209 Successfully Imported
+[08:06:41] <strong>Record</strong> #8
+[08:06:41] Existing item found #210
+[08:06:41] post #210 Successfully Imported
+[08:06:42] <strong>Record</strong> #9
+[08:06:42] Existing item found #211
+[08:06:42] post #211 Successfully Imported
+[08:06:42] <strong>Record</strong> #10
+[08:06:42] post #337 Successfully Imported
+[08:06:42] <strong>Record</strong> #11
+[08:06:42] Existing item found #212
+[08:06:43] post #212 Successfully Imported
+[08:06:43] <strong>Record</strong> #12
+[08:06:43] Existing item found #213
+[08:06:44] post #213 Successfully Imported
+[08:06:44] <strong>Record</strong> #13
+[08:06:44] Existing item found #214
+[08:06:46] post #214 Successfully Imported
+[08:06:46] <strong>Record</strong> #14
+[08:06:46] Existing item found #215
+[08:06:47] post #215 Successfully Imported
+[08:06:47] <strong>Record</strong> #15
+[08:06:48] post #338 Successfully Imported
+[08:06:48] <strong>Record</strong> #16
+[08:06:48] Existing item found #216
+[08:06:48] post #216 Successfully Imported
+[08:06:48] <strong>Record</strong> #17
+[08:06:48] Existing item found #217
+[08:06:49] post #217 Successfully Imported
+[08:06:49] <strong>Record</strong> #18
+[08:06:49] Existing item found #218
+[08:06:50] post #218 Successfully Imported
+[08:06:50] <strong>Record</strong> #19
+[08:06:50] Existing item found #219
+[08:06:53] post #219 Successfully Imported
+[08:06:53] <strong>Record</strong> #20
+[08:06:54] post #339 Successfully Imported
+[08:06:57] <strong>Record</strong> #21
+[08:06:57] Existing item found #220
+[08:06:58] post #220 Successfully Imported
+[08:06:58] <strong>Record</strong> #22
+[08:06:58] Existing item found #221
+[08:06:58] post #221 Successfully Imported
+[08:06:58] <strong>Record</strong> #23
+[08:06:58] Existing item found #222
+[08:06:59] post #222 Successfully Imported
+[08:06:59] <strong>Record</strong> #24
+[08:06:59] Existing item found #223
+[08:06:59] post #223 Successfully Imported
+[08:06:59] <strong>Record</strong> #25
+[08:07:00] post #340 Successfully Imported
+[08:07:00] <strong>Record</strong> #26
+[08:07:00] Existing item found #224
+[08:07:01] post #224 Successfully Imported
+[08:07:01] <strong>Record</strong> #27
+[08:07:01] Existing item found #225
+[08:07:02] post #225 Successfully Imported
+[08:07:02] <strong>Record</strong> #28
+[08:07:02] Existing item found #226
+[08:07:03] post #226 Successfully Imported
+[08:07:03] <strong>Record</strong> #29
+[08:07:03] Existing item found #227
+[08:07:04] post #227 Successfully Imported
+[08:07:04] <strong>Record</strong> #30
+[08:07:05] post #341 Successfully Imported
+[08:07:05] <strong>Record</strong> #31
+[08:07:05] Existing item found #228
+[08:07:06] post #228 Successfully Imported
+[08:07:06] <strong>Record</strong> #32
+[08:07:06] Existing item found #229
+[08:07:06] post #229 Successfully Imported
+[08:07:06] <strong>Record</strong> #33
+[08:07:06] Existing item found #230
+[08:07:07] post #230 Successfully Imported
+[08:07:07] <strong>Record</strong> #34
+[08:07:07] Existing item found #231
+[08:07:07] post #231 Successfully Imported
+[08:07:07] <strong>Record</strong> #35
+[08:07:09] post #342 Successfully Imported
+[08:07:09] <strong>Record</strong> #36
+[08:07:09] Existing item found #232
+[08:07:09] post #232 Successfully Imported
+[08:07:09] <strong>Record</strong> #37
+[08:07:09] Existing item found #233
+[08:07:10] post #233 Successfully Imported
+[08:07:10] <strong>Record</strong> #38
+[08:07:10] Existing item found #234
+[08:07:10] post #234 Successfully Imported
+[08:07:10] <strong>Record</strong> #39
+[08:07:10] Existing item found #235
+[08:07:11] post #235 Successfully Imported
+[08:07:11] <strong>Record</strong> #40
+[08:07:11] post #343 Successfully Imported
+[08:07:18] <strong>Record</strong> #41
+[08:07:18] Existing item found #236
+[08:07:18] post #236 Successfully Imported
+[08:07:18] <strong>Record</strong> #42
+[08:07:18] Existing item found #237
+[08:07:18] post #237 Successfully Imported
+[08:07:18] <strong>Record</strong> #43
+[08:07:18] Existing item found #238
+[08:07:19] post #238 Successfully Imported
+[08:07:19] <strong>Record</strong> #44
+[08:07:19] Existing item found #239
+[08:07:20] post #239 Successfully Imported
+[08:07:21] <strong>Record</strong> #45
+[08:07:22] post #344 Successfully Imported
+[08:07:22] <strong>Record</strong> #46
+[08:07:22] Existing item found #240
+[08:07:24] post #240 Successfully Imported
+[08:07:24] <strong>Record</strong> #47
+[08:07:24] Existing item found #241
+[08:07:26] post #241 Successfully Imported
+[08:07:26] <strong>Record</strong> #48
+[08:07:26] Existing item found #242
+[08:07:26] post #242 Successfully Imported
+[08:07:26] <strong>Record</strong> #49
+[08:07:26] Existing item found #243
+[08:07:27] post #243 Successfully Imported
+[08:07:27] <strong>Record</strong> #50
+[08:07:28] post #345 Successfully Imported
+[08:07:28] <strong>Record</strong> #51
+[08:07:28] Existing item found #244
+[08:07:29] post #244 Successfully Imported
+[08:07:29] <strong>Record</strong> #52
+[08:07:29] Existing item found #245
+[08:07:30] post #245 Successfully Imported
+[08:07:30] <strong>Record</strong> #53
+[08:07:30] Existing item found #246
+[08:07:30] post #246 Successfully Imported
+[08:07:30] <strong>Record</strong> #54
+[08:07:30] Existing item found #247
+[08:07:31] post #247 Successfully Imported
+[08:07:31] <strong>Record</strong> #55
+[08:07:32] post #346 Successfully Imported
+[08:07:32] <strong>Record</strong> #56
+[08:07:32] Existing item found #248
+[08:07:32] post #248 Successfully Imported
+[08:07:32] <strong>Record</strong> #57
+[08:07:32] Existing item found #249
+[08:07:33] post #249 Successfully Imported
+[08:07:33] <strong>Record</strong> #58
+[08:07:33] Existing item found #250
+[08:07:33] post #250 Successfully Imported
+[08:07:33] <strong>Record</strong> #59
+[08:07:33] Existing item found #251
+[08:07:33] post #251 Successfully Imported
+[08:07:33] <strong>Record</strong> #60
+[08:07:35] post #347 Successfully Imported
+[08:07:39] <strong>Record</strong> #61
+[08:07:39] Existing item found #252
+[08:07:40] post #252 Successfully Imported
+[08:07:40] <strong>Record</strong> #62
+[08:07:40] Existing item found #253
+[08:07:40] post #253 Successfully Imported
+[08:07:40] <strong>Record</strong> #63
+[08:07:40] Existing item found #254
+[08:07:41] post #254 Successfully Imported
+[08:07:41] <strong>Record</strong> #64
+[08:07:41] Existing item found #255
+[08:07:41] post #255 Successfully Imported
+[08:07:41] <strong>Record</strong> #65
+[08:07:42] post #348 Successfully Imported
+[08:07:42] <strong>Record</strong> #66
+[08:07:42] Existing item found #256
+[08:07:42] post #256 Successfully Imported
+[08:07:42] <strong>Record</strong> #67
+[08:07:42] Existing item found #257
+[08:07:43] post #257 Successfully Imported
+[08:07:43] <strong>Record</strong> #68
+[08:07:43] Existing item found #258
+[08:07:43] post #258 Successfully Imported
+[08:07:43] <strong>Record</strong> #69
+[08:07:43] Existing item found #259
+[08:07:44] post #259 Successfully Imported
+[08:07:44] <strong>Record</strong> #70
+[08:07:44] post #349 Successfully Imported
+[08:07:44] <strong>Record</strong> #71
+[08:07:44] Existing item found #260
+[08:07:45] post #260 Successfully Imported
+[08:07:45] <strong>Record</strong> #72
+[08:07:45] Existing item found #261
+[08:07:45] post #261 Successfully Imported
+[08:07:45] <strong>Record</strong> #73
+[08:07:45] Existing item found #262
+[08:07:46] post #262 Successfully Imported
+[08:07:46] <strong>Record</strong> #74
+[08:07:46] Existing item found #263
+[08:07:47] post #263 Successfully Imported
+[08:07:47] <strong>Record</strong> #75
+[08:07:48] post #350 Successfully Imported
+[08:07:48] <strong>Record</strong> #76
+[08:07:48] Existing item found #264
+[08:07:49] post #264 Successfully Imported
+[08:07:49] <strong>Record</strong> #77
+[08:07:49] Existing item found #265
+[08:07:49] post #265 Successfully Imported
+[08:07:49] <strong>Record</strong> #78
+[08:07:49] Existing item found #266
+[08:07:51] post #266 Successfully Imported
+[08:07:51] <strong>Record</strong> #79
+[08:07:51] Existing item found #267
+[08:07:52] post #267 Successfully Imported
+[08:07:52] <strong>Record</strong> #80
+[08:07:53] post #351 Successfully Imported
+[08:07:56] <strong>Record</strong> #81
+[08:07:56] Existing item found #268
+[08:07:57] post #268 Successfully Imported
+[08:07:57] <strong>Record</strong> #82
+[08:07:57] Existing item found #269
+[08:07:57] post #269 Successfully Imported
+[08:07:57] <strong>Record</strong> #83
+[08:07:57] Existing item found #270
+[08:07:58] post #270 Successfully Imported
+[08:07:58] <strong>Record</strong> #84
+[08:07:58] Existing item found #271
+[08:07:58] post #271 Successfully Imported
+[08:07:58] <strong>Record</strong> #85
+[08:07:59] post #352 Successfully Imported
+[08:07:59] <strong>Record</strong> #86
+[08:07:59] Existing item found #272
+[08:08:00] post #272 Successfully Imported
+[08:08:00] <strong>Record</strong> #87
+[08:08:00] Existing item found #273
+[08:08:01] post #273 Successfully Imported
+[08:08:01] <strong>Record</strong> #88
+[08:08:01] Existing item found #274
+[08:08:01] post #274 Successfully Imported
+[08:08:01] <strong>Record</strong> #89
+[08:08:01] Existing item found #275
+[08:08:02] post #275 Successfully Imported
+[08:08:02] <strong>Record</strong> #90
+[08:08:04] post #353 Successfully Imported
+[08:08:04] <strong>Record</strong> #91
+[08:08:04] Existing item found #276
+[08:08:04] post #276 Successfully Imported
+[08:08:04] <strong>Record</strong> #92
+[08:08:04] Existing item found #277
+[08:08:05] post #277 Successfully Imported
+[08:08:05] <strong>Record</strong> #93
+[08:08:05] Existing item found #278
+[08:08:05] post #278 Successfully Imported
+[08:08:05] <strong>Record</strong> #94
+[08:08:05] Existing item found #279
+[08:08:06] post #279 Successfully Imported
+[08:08:06] <strong>Record</strong> #95
+[08:08:08] post #354 Successfully Imported
+[08:08:08] <strong>Record</strong> #96
+[08:08:08] Existing item found #280
+[08:08:08] post #280 Successfully Imported
+[08:08:08] <strong>Record</strong> #97
+[08:08:09] Existing item found #281
+[08:08:09] post #281 Successfully Imported
+[08:08:09] <strong>Record</strong> #98
+[08:08:09] Existing item found #282
+[08:08:09] post #282 Successfully Imported
+[08:08:09] <strong>Record</strong> #99
+[08:08:09] Existing item found #283
+[08:08:10] post #283 Successfully Imported
+[08:08:10] <strong>Record</strong> #100
+[08:08:10] post #355 Successfully Imported
+[08:08:20] <strong>Record</strong> #101
+[08:08:20] Existing item found #284
+[08:08:22] post #284 Successfully Imported
+[08:08:22] <strong>Record</strong> #102
+[08:08:22] Existing item found #285
+[08:08:23] post #285 Successfully Imported
+[08:08:23] <strong>Record</strong> #103
+[08:08:23] Existing item found #286
+[08:08:24] post #286 Successfully Imported
+[08:08:24] <strong>Record</strong> #104
+[08:08:24] Existing item found #287
+[08:08:27] post #287 Successfully Imported
+[08:08:27] <strong>Record</strong> #105
+[08:08:30] post #356 Successfully Imported
+[08:08:30] <strong>Record</strong> #106
+[08:08:30] Existing item found #288
+[08:08:33] post #288 Successfully Imported
+[08:08:33] <strong>Record</strong> #107
+[08:08:33] Existing item found #289
+[08:08:34] post #289 Successfully Imported
+[08:08:34] <strong>Record</strong> #108
+[08:08:34] Existing item found #290
+[08:08:35] post #290 Successfully Imported
+[08:08:35] <strong>Record</strong> #109
+[08:08:35] Existing item found #291
+[08:08:37] post #291 Successfully Imported
+[08:08:37] <strong>Record</strong> #110
+[08:08:39] post #357 Successfully Imported
+[08:08:39] <strong>Record</strong> #111
+[08:08:39] Existing item found #292
+[08:08:40] post #292 Successfully Imported
+[08:08:40] <strong>Record</strong> #112
+[08:08:40] Existing item found #293
+[08:08:41] post #293 Successfully Imported
+[08:08:41] <strong>Record</strong> #113
+[08:08:41] Existing item found #294
+[08:08:44] post #294 Successfully Imported
+[08:08:44] <strong>Record</strong> #114
+[08:08:44] Existing item found #295
+[08:08:44] post #295 Successfully Imported
+[08:08:45] <strong>Record</strong> #115
+[08:08:46] post #358 Successfully Imported
+[08:08:46] <strong>Record</strong> #116
+[08:08:46] Existing item found #296
+[08:08:48] post #296 Successfully Imported
+[08:08:49] <strong>Record</strong> #117
+[08:08:49] Existing item found #297
+[08:08:49] post #297 Successfully Imported
+[08:08:49] <strong>Record</strong> #118
+[08:08:49] Existing item found #298
+[08:08:50] post #298 Successfully Imported
+[08:08:50] <strong>Record</strong> #119
+[08:08:50] Existing item found #299
+[08:08:50] post #299 Successfully Imported
+[08:08:50] <strong>Record</strong> #120
+[08:08:53] post #359 Successfully Imported
+[08:08:56] <strong>Record</strong> #121
+[08:08:56] Existing item found #300
+[08:08:57] post #300 Successfully Imported
+[08:08:57] <strong>Record</strong> #122
+[08:08:57] Existing item found #301
+[08:08:57] post #301 Successfully Imported
+[08:08:57] <strong>Record</strong> #123
+[08:08:57] Existing item found #302
+[08:08:57] post #302 Successfully Imported
+[08:08:57] <strong>Record</strong> #124
+[08:08:57] Existing item found #303
+[08:08:58] post #303 Successfully Imported
+[08:08:58] <strong>Record</strong> #125
+[08:08:59] post #360 Successfully Imported
+[08:08:59] <strong>Record</strong> #126
+[08:08:59] Existing item found #304
+[08:08:59] post #304 Successfully Imported
+[08:08:59] <strong>Record</strong> #127
+[08:08:59] Existing item found #305
+[08:09:00] post #305 Successfully Imported
+[08:09:00] <strong>Record</strong> #128
+[08:09:00] Existing item found #306
+[08:09:00] post #306 Successfully Imported
+[08:09:00] <strong>Record</strong> #129
+[08:09:00] Existing item found #307
+[08:09:01] post #307 Successfully Imported
+[08:09:01] <strong>Record</strong> #130
+[08:09:02] post #361 Successfully Imported
+[08:09:02] <strong>Record</strong> #131
+[08:09:02] Existing item found #308
+[08:09:02] post #308 Successfully Imported
+[08:09:02] <strong>Record</strong> #132
+[08:09:02] Existing item found #309
+[08:09:03] post #309 Successfully Imported
+[08:09:03] <strong>Record</strong> #133
+[08:09:03] Existing item found #310
+[08:09:03] post #310 Successfully Imported
+[08:09:04] <strong>Record</strong> #134
+[08:09:04] Existing item found #311
+[08:09:04] post #311 Successfully Imported
+[08:09:04] <strong>Record</strong> #135
+[08:09:05] post #362 Successfully Imported
+[08:09:05] <strong>Record</strong> #136
+[08:09:05] Existing item found #312
+[08:09:05] post #312 Successfully Imported
+[08:09:05] <strong>Record</strong> #137
+[08:09:05] Existing item found #313
+[08:09:06] post #313 Successfully Imported
+[08:09:06] <strong>Record</strong> #138
+[08:09:06] Existing item found #314
+[08:09:06] post #314 Successfully Imported
+[08:09:06] <strong>Record</strong> #139
+[08:09:06] Existing item found #315
+[08:09:07] post #315 Successfully Imported
+[08:09:07] <strong>Record</strong> #140
+[08:09:07] post #363 Successfully Imported
+[08:09:14] <strong>Record</strong> #141
+[08:09:14] Existing item found #316
+[08:09:14] post #316 Successfully Imported
+[08:09:15] <strong>Record</strong> #142
+[08:09:15] Existing item found #317
+[08:09:15] post #317 Successfully Imported
+[08:09:15] <strong>Record</strong> #143
+[08:09:15] Existing item found #318
+[08:09:15] post #318 Successfully Imported
+[08:09:15] <strong>Record</strong> #144
+[08:09:15] Existing item found #319
+[08:09:16] post #319 Successfully Imported
+[08:09:16] <strong>Record</strong> #145
+[08:09:18] post #364 Successfully Imported
+[08:09:18] <strong>Record</strong> #146
+[08:09:18] Existing item found #320
+[08:09:18] post #320 Successfully Imported
+[08:09:18] <strong>Record</strong> #147
+[08:09:18] Existing item found #321
+[08:09:19] post #321 Successfully Imported
+[08:09:19] <strong>Record</strong> #148
+[08:09:19] Existing item found #322
+[08:09:20] post #322 Successfully Imported
+[08:09:21] <strong>Record</strong> #149
+[08:09:21] Existing item found #323
+[08:09:22] post #323 Successfully Imported
+[08:09:22] <strong>Record</strong> #150
+[08:09:23] post #365 Successfully Imported

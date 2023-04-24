@@ -1,0 +1,211 @@
+0000.001 (0) Opened log file at time: Thu, 23 Mar 2023 22:43:32 +0000 on https://rancangbangunarsitek.eu.org
+0000.050 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 2.16.58.25 WP: 5.9.5 PHP: 8.1.12 (apache2handler, Windows NT ASUS64 10.0 build 19042 (Windows 10) AMD64) MySQL: 10.4.27-MariaDB WPLANG: en_US Server: Apache/2.4.54 (Win64) OpenSSL/1.1.1p PHP/8.1.12 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 84.6M | 86M) multisite: N openssl: OpenSSL 1.1.1q  5 Jul 2022 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.089 (0) Free space on disk containing Updraft's temporary directory: 338421.2 MB
+0000.171 (0) Tasks: Backup files: 0 (schedule: manual) Backup DB: 1 (schedule: manual)
+0000.294 (0) Semaphore (d, rba_options) being initialised
+0000.615 (0) Requesting semaphore lock (d) (apparently not via scheduler)
+0001.060 (0) Set semaphore last lock (d) time to 2023-03-23 22:43:33
+0001.133 (0) Semaphore lock (d) complete
+0001.855 (0) Backup run: resumption=0, nonce=cd6f9eec1419, file_nonce=cd6f9eec1419 begun at=1679611412 (2s ago), job type=backup
+0001.966 (0) Scheduling a resumption (1) after 300 seconds (1679611714) in case this run gets aborted
+0002.138 (0) This backup run is not intended for files - skipping
+0002.252 (0) Beginning creation of database dump (WordPress DB)
+0002.371 (0) SQL compatibility mode is: NO_ZERO_IN_DATE,NO_ENGINE_SUBSTITUTION
+0002.617 (0) PHP event: code E_WARNING: unlink(D:\xampp81\htdocs/wp-content/updraft/fbfd9da4d780a655c71eee4dc22d838a.sqltest.tmp): No such file or directory (line 1684, D:\xampp81\htdocs\wp-content\plugins\updraftplus\class-updraftplus.php)
+0003.008 (0) Table rba_options: Total expected rows (approximate): 470
+0003.756 (0) Table rba_options: Rows added in this batch (next record: 2948): 466 (uncompressed bytes in this segment=191899) in 0.68 seconds
+0004.321 (0) Table rba_options: finishing file(s) (2, 35 KB)
+0004.493 (0) Table rba_users: Total expected rows (approximate): 0
+0004.690 (0) Table rba_users: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1207) in 0.06 seconds
+0004.955 (0) Table rba_users: finishing file(s) (2, 0.6 KB)
+0005.181 (0) Table rba_usermeta: Total expected rows (approximate): 29
+0005.311 (0) Table rba_usermeta: Rows added in this batch (next record: 29): 29 (uncompressed bytes in this segment=5001) in 0.02 seconds
+0005.490 (0) Table rba_usermeta: finishing file(s) (2, 2.4 KB)
+0005.626 (0) Table rba_commentmeta: Total expected rows (approximate): 0
+0005.920 (0) Table rba_commentmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=640) in 0.22 seconds
+0006.230 (0) Table rba_commentmeta: finishing file(s) (2, 0.4 KB)
+0006.388 (0) Table rba_comments: Total expected rows (approximate): 0
+0006.595 (0) Table rba_comments: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1899) in 0.14 seconds
+0006.896 (0) Table rba_comments: finishing file(s) (2, 0.7 KB)
+0007.120 (0) Table rba_links: Total expected rows (approximate): 0
+0007.453 (0) Table rba_links: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1033) in 0.12 seconds
+0007.671 (0) Table rba_links: finishing file(s) (2, 0.5 KB)
+0007.796 (0) Table rba_postmeta: Total expected rows (approximate): 2214
+0012.464 (0) Table rba_postmeta: Rows added in this batch (next record: 4479): 1931 (uncompressed bytes in this segment=687884) in 4.59 seconds
+0012.767 (0) Table rba_postmeta: finishing file(s) (2, 36.5 KB)
+0012.922 (0) Table rba_posts: Total expected rows (approximate): 303
+0018.613 (0) Table rba_posts: Rows added in this batch (next record: 500): 322 (uncompressed bytes in this segment=872408) in 5.61 seconds
+0018.888 (0) Table rba_posts: finishing file(s) (2, 71.8 KB)
+0019.032 (0) Table rba_term_relationships: Total expected rows (approximate): 985
+0019.472 (0) Table rba_term_relationships: Rows added in this batch (next record: 100000): 985 (uncompressed bytes in this segment=14871) in 0.34 seconds
+0019.901 (0) Table rba_term_relationships: finishing file(s) (2, 2.7 KB)
+0020.083 (0) Table rba_term_taxonomy: Total expected rows (approximate): 26
+0020.484 (0) Table rba_term_taxonomy: Rows added in this batch (next record: 26): 26 (uncompressed bytes in this segment=1757) in 0.35 seconds
+0023.311 (0) Table rba_term_taxonomy: finishing file(s) (2, 0.6 KB)
+0023.460 (0) Table rba_termmeta: Total expected rows (approximate): 1233
+0024.159 (0) Table rba_termmeta: Rows added in this batch (next record: 1245): 1233 (uncompressed bytes in this segment=93294) in 0.46 seconds
+0024.583 (0) Table rba_termmeta: finishing file(s) (2, 15.3 KB)
+0024.811 (0) Table rba_terms: Total expected rows (approximate): 26
+0024.870 (0) Table rba_terms: Rows added in this batch (next record: 26): 26 (uncompressed bytes in this segment=1561) in 0.01 seconds
+0025.061 (0) Table rba_terms: finishing file(s) (2, 0.7 KB)
+0025.189 (0) Table rba_ac_segments: Total expected rows (approximate): 0
+0025.489 (0) Table rba_ac_segments: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=704) in 0.24 seconds
+0025.898 (0) Table rba_ac_segments: finishing file(s) (2, 0.4 KB)
+0026.015 (0) Table rba_admin_columns: Total expected rows (approximate): 2
+0026.091 (0) Table rba_admin_columns: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=5739) in 0.01 seconds
+0026.271 (0) Table rba_admin_columns: finishing file(s) (2, 1.1 KB)
+0026.785 (0) Table rba_bulk_edit: Total expected rows (approximate): 0
+0027.168 (0) Table rba_bulk_edit: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=845) in 0.13 seconds
+0027.386 (0) Table rba_bulk_edit: finishing file(s) (2, 0.4 KB)
+0027.469 (0) Table rba_jet_post_types: Total expected rows (approximate): 0
+0027.878 (0) Table rba_jet_post_types: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=598) in 0.36 seconds
+0028.297 (0) Table rba_jet_post_types: finishing file(s) (2, 0.3 KB)
+0028.509 (0) Table rba_jet_taxonomies: Total expected rows (approximate): 0
+0028.632 (0) Table rba_jet_taxonomies: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=633) in 0.06 seconds
+0028.794 (0) Table rba_jet_taxonomies: finishing file(s) (2, 0.4 KB)
+0029.009 (0) Table rba_pmxe_exports: Total expected rows (approximate): 1
+0029.549 (0) Table rba_pmxe_exports: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=34762) in 0.44 seconds
+0029.864 (0) Table rba_pmxe_exports: finishing file(s) (2, 6.1 KB)
+0029.981 (0) Table rba_pmxe_google_cats: Total expected rows (approximate): 5512
+0030.773 (0) Table rba_pmxe_google_cats: Rows added in this batch (next record: 505832): 5371 (uncompressed bytes in this segment=327527) in 0.74 seconds
+0031.031 (0) Table rba_pmxe_google_cats: finishing file(s) (2, 75.3 KB)
+0031.236 (0) Table rba_pmxe_posts: Total expected rows (approximate): 3
+0031.599 (0) Table rba_pmxe_posts: Rows added in this batch (next record: 3): 3 (uncompressed bytes in this segment=649) in 0.24 seconds
+0032.490 (0) Table rba_pmxe_posts: finishing file(s) (2, 0.4 KB)
+0032.683 (0) Table rba_pmxe_templates: Total expected rows (approximate): 0
+0032.890 (0) Table rba_pmxe_templates: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=522) in 0.09 seconds
+0033.112 (0) Table rba_pmxe_templates: finishing file(s) (2, 0.3 KB)
+0033.340 (0) Table rba_pmxi_files: Total expected rows (approximate): 2
+0033.992 (0) Table rba_pmxi_files: Rows added in this batch (next record: 3): 2 (uncompressed bytes in this segment=992) in 0.22 seconds
+0034.417 (0) Table rba_pmxi_files: finishing file(s) (2, 0.6 KB)
+0034.638 (0) Table rba_pmxi_hash: Total expected rows (approximate): 0
+0035.020 (0) Table rba_pmxi_hash: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=528) in 0.21 seconds
+0035.423 (0) Table rba_pmxi_hash: finishing file(s) (2, 0.3 KB)
+0035.606 (0) Table rba_pmxi_history: Total expected rows (approximate): 0
+0035.903 (0) Table rba_pmxi_history: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=838) in 0.20 seconds
+0036.202 (0) Table rba_pmxi_history: finishing file(s) (2, 0.5 KB)
+0036.414 (0) Table rba_pmxi_images: Total expected rows (approximate): 0
+0036.555 (0) Table rba_pmxi_images: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=559) in 0.11 seconds
+0037.811 (0) Table rba_pmxi_images: finishing file(s) (2, 0.3 KB)
+0038.059 (0) Table rba_pmxi_imports: Total expected rows (approximate): 2
+0038.297 (0) Table rba_pmxi_imports: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=26374) in 0.13 seconds
+0038.418 (0) Table rba_pmxi_imports: finishing file(s) (2, 4.7 KB)
+0038.953 (0) Table rba_pmxi_posts: Total expected rows (approximate): 2
+0039.090 (0) Table rba_pmxi_posts: Rows added in this batch (next record: 3): 3 (uncompressed bytes in this segment=805) in 0.07 seconds
+0039.359 (0) Table rba_pmxi_posts: finishing file(s) (2, 0.4 KB)
+0039.421 (0) Table rba_pmxi_templates: Total expected rows (approximate): 0
+0039.598 (0) Table rba_pmxi_templates: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=818) in 0.15 seconds
+0039.956 (0) Table rba_pmxi_templates: finishing file(s) (2, 0.4 KB)
+0040.040 (0) Table rba_wpie_template: Total expected rows (approximate): 17
+0042.389 (0) Table rba_wpie_template: Rows added in this batch (next record: 23): 20 (uncompressed bytes in this segment=584386) in 2.27 seconds
+0043.175 (0) Table rba_wpie_template: finishing file(s) (2, 62.2 KB)
+0043.202 (0) PHP event: code E_WARNING: filemtime(): stat failed for D:\xampp81\htdocs/wp-content/updraft/backup_2023-03-24-0543_Rancang_Bangun_Arsitek_cd6f9eec1419-db.gz (line 1816, D:\xampp81\htdocs\wp-content\plugins\updraftplus\backup.php)
+0043.243 (0) backup_2023-03-24-0543_Rancang_Bangun_Arsitek_cd6f9eec1419-db-table-rba_options.table.tmpr2949.gz (1/29/fopen): adding to final database dump
+0043.336 (0) backup_2023-03-24-0543_Rancang_Bangun_Arsitek_cd6f9eec1419-db-table-rba_options.table.gz (2/29/fopen): adding to final database dump
+0043.422 (0) backup_2023-03-24-0543_Rancang_Bangun_Arsitek_cd6f9eec1419-db-table-rba_users.table.tmpr2.gz (3/29/fopen): adding to final database dump
+0043.479 (0) backup_2023-03-24-0543_Rancang_Bangun_Arsitek_cd6f9eec1419-db-table-rba_users.table.gz (4/29/fopen): adding to final database dump
+0043.539 (0) backup_2023-03-24-0543_Rancang_Bangun_Arsitek_cd6f9eec1419-db-table-rba_usermeta.table.tmpr30.gz (5/29/fopen): adding to final database dump
+0043.569 (0) backup_2023-03-24-0543_Rancang_Bangun_Arsitek_cd6f9eec1419-db-table-rba_usermeta.table.gz (6/29/fopen): adding to final database dump
+0043.641 (0) backup_2023-03-24-0543_Rancang_Bangun_Arsitek_cd6f9eec1419-db-table-rba_commentmeta.table.tmpr0.gz (7/29/fopen): adding to final database dump
+0043.702 (0) backup_2023-03-24-0543_Rancang_Bangun_Arsitek_cd6f9eec1419-db-table-rba_commentmeta.table.gz (8/29/fopen): adding to final database dump
+0043.742 (0) backup_2023-03-24-0543_Rancang_Bangun_Arsitek_cd6f9eec1419-db-table-rba_comments.table.tmpr2.gz (9/29/fopen): adding to final database dump
+0043.771 (0) backup_2023-03-24-0543_Rancang_Bangun_Arsitek_cd6f9eec1419-db-table-rba_comments.table.gz (10/29/fopen): adding to final database dump
+0043.843 (0) backup_2023-03-24-0543_Rancang_Bangun_Arsitek_cd6f9eec1419-db-table-rba_links.table.tmpr0.gz (11/29/fopen): adding to final database dump
+0043.904 (0) backup_2023-03-24-0543_Rancang_Bangun_Arsitek_cd6f9eec1419-db-table-rba_links.table.gz (12/29/fopen): adding to final database dump
+0044.005 (0) backup_2023-03-24-0543_Rancang_Bangun_Arsitek_cd6f9eec1419-db-table-rba_postmeta.table.tmpr4480.gz (13/29/fopen): adding to final database dump
+0044.165 (0) backup_2023-03-24-0543_Rancang_Bangun_Arsitek_cd6f9eec1419-db-table-rba_postmeta.table.gz (14/29/fopen): adding to final database dump
+0044.284 (0) backup_2023-03-24-0543_Rancang_Bangun_Arsitek_cd6f9eec1419-db-table-rba_posts.table.tmpr501.gz (15/29/fopen): adding to final database dump
+0044.396 (0) backup_2023-03-24-0543_Rancang_Bangun_Arsitek_cd6f9eec1419-db-table-rba_posts.table.gz (16/29/fopen): adding to final database dump
+0044.442 (0) backup_2023-03-24-0543_Rancang_Bangun_Arsitek_cd6f9eec1419-db-table-rba_term_relationships.table.tmpr100001.gz (17/29/fopen): adding to final database dump
+0044.470 (0) backup_2023-03-24-0543_Rancang_Bangun_Arsitek_cd6f9eec1419-db-table-rba_term_relationships.table.gz (18/29/fopen): adding to final database dump
+0044.509 (0) backup_2023-03-24-0543_Rancang_Bangun_Arsitek_cd6f9eec1419-db-table-rba_term_taxonomy.table.tmpr27.gz (19/29/fopen): adding to final database dump
+0044.559 (0) backup_2023-03-24-0543_Rancang_Bangun_Arsitek_cd6f9eec1419-db-table-rba_term_taxonomy.table.gz (20/29/fopen): adding to final database dump
+0044.599 (0) backup_2023-03-24-0543_Rancang_Bangun_Arsitek_cd6f9eec1419-db-table-rba_termmeta.table.tmpr1246.gz (21/29/fopen): adding to final database dump
+0044.645 (0) backup_2023-03-24-0543_Rancang_Bangun_Arsitek_cd6f9eec1419-db-table-rba_termmeta.table.gz (22/29/fopen): adding to final database dump
+0044.684 (0) backup_2023-03-24-0543_Rancang_Bangun_Arsitek_cd6f9eec1419-db-table-rba_terms.table.tmpr27.gz (23/29/fopen): adding to final database dump
+0044.712 (0) backup_2023-03-24-0543_Rancang_Bangun_Arsitek_cd6f9eec1419-db-table-rba_terms.table.gz (24/29/fopen): adding to final database dump
+0044.740 (0) backup_2023-03-24-0543_Rancang_Bangun_Arsitek_cd6f9eec1419-db-table-rba_ac_segments.table.tmpr0.gz (25/29/fopen): adding to final database dump
+0044.769 (0) backup_2023-03-24-0543_Rancang_Bangun_Arsitek_cd6f9eec1419-db-table-rba_ac_segments.table.gz (26/29/fopen): adding to final database dump
+0044.832 (0) backup_2023-03-24-0543_Rancang_Bangun_Arsitek_cd6f9eec1419-db-table-rba_admin_columns.table.tmpr3.gz (27/29/fopen): adding to final database dump
+0044.959 (0) backup_2023-03-24-0543_Rancang_Bangun_Arsitek_cd6f9eec1419-db-table-rba_admin_columns.table.gz (28/29/fopen): adding to final database dump
+0045.015 (0) backup_2023-03-24-0543_Rancang_Bangun_Arsitek_cd6f9eec1419-db-table-rba_bulk_edit.table.tmpr0.gz (29/29/fopen): adding to final database dump
+0045.054 (0) backup_2023-03-24-0543_Rancang_Bangun_Arsitek_cd6f9eec1419-db-table-rba_bulk_edit.table.gz (30/29/fopen): adding to final database dump
+0045.105 (0) backup_2023-03-24-0543_Rancang_Bangun_Arsitek_cd6f9eec1419-db-table-rba_jet_post_types.table.tmpr0.gz (31/29/fopen): adding to final database dump
+0045.476 (0) backup_2023-03-24-0543_Rancang_Bangun_Arsitek_cd6f9eec1419-db-table-rba_jet_post_types.table.gz (32/29/fopen): adding to final database dump
+0045.503 (0) backup_2023-03-24-0543_Rancang_Bangun_Arsitek_cd6f9eec1419-db-table-rba_jet_taxonomies.table.tmpr0.gz (33/29/fopen): adding to final database dump
+0045.543 (0) backup_2023-03-24-0543_Rancang_Bangun_Arsitek_cd6f9eec1419-db-table-rba_jet_taxonomies.table.gz (34/29/fopen): adding to final database dump
+0045.571 (0) backup_2023-03-24-0543_Rancang_Bangun_Arsitek_cd6f9eec1419-db-table-rba_pmxe_exports.table.tmpr2.gz (35/29/fopen): adding to final database dump
+0045.624 (0) backup_2023-03-24-0543_Rancang_Bangun_Arsitek_cd6f9eec1419-db-table-rba_pmxe_exports.table.gz (36/29/fopen): adding to final database dump
+0045.661 (0) backup_2023-03-24-0543_Rancang_Bangun_Arsitek_cd6f9eec1419-db-table-rba_pmxe_google_cats.table.tmpr505833.gz (37/29/fopen): adding to final database dump
+0045.705 (0) backup_2023-03-24-0543_Rancang_Bangun_Arsitek_cd6f9eec1419-db-table-rba_pmxe_google_cats.table.gz (38/29/fopen): adding to final database dump
+0045.779 (0) backup_2023-03-24-0543_Rancang_Bangun_Arsitek_cd6f9eec1419-db-table-rba_pmxe_posts.table.tmpr4.gz (39/29/fopen): adding to final database dump
+0045.807 (0) backup_2023-03-24-0543_Rancang_Bangun_Arsitek_cd6f9eec1419-db-table-rba_pmxe_posts.table.gz (40/29/fopen): adding to final database dump
+0045.847 (0) backup_2023-03-24-0543_Rancang_Bangun_Arsitek_cd6f9eec1419-db-table-rba_pmxe_templates.table.tmpr0.gz (41/29/fopen): adding to final database dump
+0045.886 (0) backup_2023-03-24-0543_Rancang_Bangun_Arsitek_cd6f9eec1419-db-table-rba_pmxe_templates.table.gz (42/29/fopen): adding to final database dump
+0045.914 (0) backup_2023-03-24-0543_Rancang_Bangun_Arsitek_cd6f9eec1419-db-table-rba_pmxi_files.table.tmpr4.gz (43/29/fopen): adding to final database dump
+0045.942 (0) backup_2023-03-24-0543_Rancang_Bangun_Arsitek_cd6f9eec1419-db-table-rba_pmxi_files.table.gz (44/29/fopen): adding to final database dump
+0045.982 (0) backup_2023-03-24-0543_Rancang_Bangun_Arsitek_cd6f9eec1419-db-table-rba_pmxi_hash.table.tmpr1.gz (45/29/fopen): adding to final database dump
+0046.011 (0) backup_2023-03-24-0543_Rancang_Bangun_Arsitek_cd6f9eec1419-db-table-rba_pmxi_hash.table.gz (46/29/fopen): adding to final database dump
+0046.102 (0) backup_2023-03-24-0543_Rancang_Bangun_Arsitek_cd6f9eec1419-db-table-rba_pmxi_history.table.tmpr2.gz (47/29/fopen): adding to final database dump
+0046.257 (0) backup_2023-03-24-0543_Rancang_Bangun_Arsitek_cd6f9eec1419-db-table-rba_pmxi_history.table.gz (48/29/fopen): adding to final database dump
+0046.383 (0) backup_2023-03-24-0543_Rancang_Bangun_Arsitek_cd6f9eec1419-db-table-rba_pmxi_images.table.tmpr0.gz (49/29/fopen): adding to final database dump
+0046.490 (0) backup_2023-03-24-0543_Rancang_Bangun_Arsitek_cd6f9eec1419-db-table-rba_pmxi_images.table.gz (50/29/fopen): adding to final database dump
+0046.519 (0) backup_2023-03-24-0543_Rancang_Bangun_Arsitek_cd6f9eec1419-db-table-rba_pmxi_imports.table.tmpr3.gz (51/29/fopen): adding to final database dump
+0046.605 (0) backup_2023-03-24-0543_Rancang_Bangun_Arsitek_cd6f9eec1419-db-table-rba_pmxi_imports.table.gz (52/29/fopen): adding to final database dump
+0046.677 (0) backup_2023-03-24-0543_Rancang_Bangun_Arsitek_cd6f9eec1419-db-table-rba_pmxi_posts.table.tmpr4.gz (53/29/fopen): adding to final database dump
+0046.716 (0) backup_2023-03-24-0543_Rancang_Bangun_Arsitek_cd6f9eec1419-db-table-rba_pmxi_posts.table.gz (54/29/fopen): adding to final database dump
+0046.743 (0) backup_2023-03-24-0543_Rancang_Bangun_Arsitek_cd6f9eec1419-db-table-rba_pmxi_templates.table.tmpr0.gz (55/29/fopen): adding to final database dump
+0046.771 (0) backup_2023-03-24-0543_Rancang_Bangun_Arsitek_cd6f9eec1419-db-table-rba_pmxi_templates.table.gz (56/29/fopen): adding to final database dump
+0046.830 (0) backup_2023-03-24-0543_Rancang_Bangun_Arsitek_cd6f9eec1419-db-table-rba_wpie_template.table.tmpr24.gz (57/29/fopen): adding to final database dump
+0046.884 (0) backup_2023-03-24-0543_Rancang_Bangun_Arsitek_cd6f9eec1419-db-table-rba_wpie_template.table.gz (58/29/fopen): adding to final database dump
+0047.124 (0) backup_2023-03-24-0543_Rancang_Bangun_Arsitek_cd6f9eec1419-db.gz: finished writing out complete database file (322.1 KB)
+0047.378 (0) Total database tables backed up: 29 (backup_2023-03-24-0543_Rancang_Bangun_Arsitek_cd6f9eec1419-db.gz, size: 329942, sha1: 52fede41ef9664028e6c193249aeb4332dced55f, sha256: a950a087b5dbef0c9ed638a804e81d2215e94e4dfbda07f5ac872368bd012fc2)
+0049.115 (0) backup_2023-03-24-0543_Rancang_Bangun_Arsitek_cd6f9eec1419-db.gz: db: This file has not yet been successfully uploaded: will queue
+0049.270 (0) Saving backup history. Total backup size: 322.2 KB
+0049.588 (0) Requesting upload of the files that have not yet been successfully uploaded (1)
+0049.695 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0049.757 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-185947a95dd29f1c79aab51a13a618db)
+0049.820 (0) PHP event: code E_DEPRECATED: Return type of Requests_Cookie_Jar::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice (line 63, D:\xampp81\htdocs\wp-includes\Requests\Cookie\Jar.php)
+0049.846 (0) PHP event: code E_DEPRECATED: Return type of Requests_Cookie_Jar::offsetGet($key) should either be compatible with ArrayAccess::offsetGet(mixed $offset): mixed, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice (line 73, D:\xampp81\htdocs\wp-includes\Requests\Cookie\Jar.php)
+0049.875 (0) PHP event: code E_DEPRECATED: Return type of Requests_Cookie_Jar::offsetSet($key, $value) should either be compatible with ArrayAccess::offsetSet(mixed $offset, mixed $value): void, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice (line 89, D:\xampp81\htdocs\wp-includes\Requests\Cookie\Jar.php)
+0049.914 (0) PHP event: code E_DEPRECATED: Return type of Requests_Cookie_Jar::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice (line 102, D:\xampp81\htdocs\wp-includes\Requests\Cookie\Jar.php)
+0049.976 (0) PHP event: code E_DEPRECATED: Return type of Requests_Cookie_Jar::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice (line 111, D:\xampp81\htdocs\wp-includes\Requests\Cookie\Jar.php)
+0050.011 (0) PHP event: code E_DEPRECATED: http_build_query(): Passing null to parameter #2 ($numeric_prefix) of type string is deprecated (line 345, D:\xampp81\htdocs\wp-includes\Requests\Transport\cURL.php)
+0052.525 (0) PHP event: code E_DEPRECATED: Return type of Requests_Utility_CaseInsensitiveDictionary::offsetExists($key) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice (line 40, D:\xampp81\htdocs\wp-includes\Requests\Utility\CaseInsensitiveDictionary.php)
+0052.550 (0) PHP event: code E_DEPRECATED: Return type of Requests_Utility_CaseInsensitiveDictionary::offsetGet($key) should either be compatible with ArrayAccess::offsetGet(mixed $offset): mixed, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice (line 51, D:\xampp81\htdocs\wp-includes\Requests\Utility\CaseInsensitiveDictionary.php)
+0052.607 (0) PHP event: code E_DEPRECATED: Return type of Requests_Utility_CaseInsensitiveDictionary::offsetSet($key, $value) should either be compatible with ArrayAccess::offsetSet(mixed $offset, mixed $value): void, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice (line 68, D:\xampp81\htdocs\wp-includes\Requests\Utility\CaseInsensitiveDictionary.php)
+0052.663 (0) PHP event: code E_DEPRECATED: Return type of Requests_Utility_CaseInsensitiveDictionary::offsetUnset($key) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice (line 82, D:\xampp81\htdocs\wp-includes\Requests\Utility\CaseInsensitiveDictionary.php)
+0052.691 (0) PHP event: code E_DEPRECATED: Return type of Requests_Utility_CaseInsensitiveDictionary::getIterator() should either be compatible with IteratorAggregate::getIterator(): Traversable, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice (line 91, D:\xampp81\htdocs\wp-includes\Requests\Utility\CaseInsensitiveDictionary.php)
+0052.774 (0) PHP event: code E_DEPRECATED: Return type of Google_Model::offsetExists($offset) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice (line 249, D:\xampp81\htdocs\wp-content\plugins\updraftplus\includes\Google\Model.php)
+0052.804 (0) PHP event: code E_DEPRECATED: Return type of Google_Model::offsetGet($offset) should either be compatible with ArrayAccess::offsetGet(mixed $offset): mixed, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice (line 254, D:\xampp81\htdocs\wp-content\plugins\updraftplus\includes\Google\Model.php)
+0052.833 (0) PHP event: code E_DEPRECATED: Return type of Google_Model::offsetSet($offset, $value) should either be compatible with ArrayAccess::offsetSet(mixed $offset, mixed $value): void, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice (line 261, D:\xampp81\htdocs\wp-content\plugins\updraftplus\includes\Google\Model.php)
+0052.883 (0) PHP event: code E_DEPRECATED: Return type of Google_Model::offsetUnset($offset) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice (line 271, D:\xampp81\htdocs\wp-content\plugins\updraftplus\includes\Google\Model.php)
+0052.912 (0) PHP event: code E_DEPRECATED: Return type of Google_Collection::current() should either be compatible with Iterator::current(): mixed, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice (line 24, D:\xampp81\htdocs\wp-content\plugins\updraftplus\includes\Google\Collection.php)
+0052.929 (0) PHP event: code E_DEPRECATED: Return type of Google_Collection::next() should either be compatible with Iterator::next(): void, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice (line 40, D:\xampp81\htdocs\wp-content\plugins\updraftplus\includes\Google\Collection.php)
+0052.963 (0) PHP event: code E_DEPRECATED: Return type of Google_Collection::key() should either be compatible with Iterator::key(): mixed, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice (line 32, D:\xampp81\htdocs\wp-content\plugins\updraftplus\includes\Google\Collection.php)
+0053.025 (0) PHP event: code E_DEPRECATED: Return type of Google_Collection::valid() should either be compatible with Iterator::valid(): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice (line 45, D:\xampp81\htdocs\wp-content\plugins\updraftplus\includes\Google\Collection.php)
+0053.071 (0) PHP event: code E_DEPRECATED: Return type of Google_Collection::rewind() should either be compatible with Iterator::rewind(): void, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice (line 16, D:\xampp81\htdocs\wp-content\plugins\updraftplus\includes\Google\Collection.php)
+0053.088 (0) PHP event: code E_DEPRECATED: Return type of Google_Collection::count() should either be compatible with Countable::count(): int, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice (line 51, D:\xampp81\htdocs\wp-content\plugins\updraftplus\includes\Google\Collection.php)
+0055.806 (0) Google Drive: creating path: /UpdraftPlus
+0057.445 (0) Google Drive: quota usage: used=0 MB, total=15360 MB, available=15360 MB
+0057.746 (0) Google Drive: backup_2023-03-24-0543_Rancang_Bangun_Arsitek_cd6f9eec1419-db.gz: Attempting to upload to Google Drive (into folder id: 1RVPIxD3AsUTDgJRaSdro_8r2Gx7DxLZP)
+0057.798 (0) PHP event: code E_DEPRECATED: strlen(): Passing null to parameter #1 ($string) of type string is deprecated (line 109, D:\xampp81\htdocs\wp-content\plugins\updraftplus\includes\google-extensions.php)
+0058.678 (0) PHP event: code E_DEPRECATED: str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated (line 111, D:\xampp81\htdocs\wp-content\plugins\updraftplus\includes\Google\Http\Request.php)
+0060.613 (0) Googledrive chunked upload: 100 % uploaded
+0060.758 (0) Google Drive: OK: Archive backup_2023-03-24-0543_Rancang_Bangun_Arsitek_cd6f9eec1419-db.gz uploaded in 2.96 seconds
+0060.846 (0) Recording as successfully uploaded: backup_2023-03-24-0543_Rancang_Bangun_Arsitek_cd6f9eec1419-db.gz
+0060.928 (0) Deleting local file: backup_2023-03-24-0543_Rancang_Bangun_Arsitek_cd6f9eec1419-db.gz: OK
+0060.978 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0061.012 (0) Number of backup sets in history: 1; groups (db): 1
+0061.035 (0) Examining (for databases) backup set with group_id=0, nonce=cd6f9eec1419, datestamp=1679611412 (Mar 23 2023 22:43:32)
+0061.058 (0) This backup set is the backup set just made, so will not be deleted.
+0061.058 (0) Number of backup sets in history: 1; groups (files): 1
+0061.076 (0) Examining (for files) backup set with nonce=cd6f9eec1419, datestamp=1679611412 (Mar 23 2023 22:43:32)
+0061.076 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0061.093 (0) Retain: saving new backup history (sets now: 1) and finishing retain operation
+0061.128 (0) Resume backup (cd6f9eec1419, 0): finish run
+0061.247 (0) Decremented the semaphore (d) by 1
+0061.282 (0) Semaphore (d) unlocked
+0061.300 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0061.351 (0) No email will/can be sent - the user has not configured an email address.
+0061.369 (0) The backup apparently succeeded and is now complete

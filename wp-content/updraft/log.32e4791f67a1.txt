@@ -1,0 +1,560 @@
+0000.001 (0) Opened log file at time: Thu, 23 Mar 2023 22:45:12 +0000 on https://rancangbangunarsitek.eu.org
+0000.924 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 2.16.58.25 WP: 5.9.5 PHP: 8.1.12 (apache2handler, Windows NT ASUS64 10.0 build 19042 (Windows 10) AMD64) MySQL: 10.4.27-MariaDB WPLANG: en_US Server: Apache/2.4.54 (Win64) OpenSSL/1.1.1p PHP/8.1.12 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 84.6M | 86M) multisite: N openssl: OpenSSL 1.1.1q  5 Jul 2022 mcrypt: N LANG:  ZipArchive::addFile: Y
+0001.209 (0) Free space on disk containing Updraft's temporary directory: 338421.2 MB
+0001.472 (0) Tasks: Backup files: 1 (schedule: manual) Backup DB: 1 (schedule: manual)
+0001.821 (0) Semaphore (fd, rba_options) being initialised
+0003.444 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0006.645 (0) Set semaphore last lock (fd) time to 2023-03-23 22:45:19
+0006.893 (0) Semaphore lock (fd) complete
+0007.604 (0) Backup run: resumption=0, nonce=32e4791f67a1, file_nonce=32e4791f67a1 begun at=1679611512 (8s ago), job type=backup
+0007.826 (0) Scheduling a resumption (1) after 300 seconds (1679611820) in case this run gets aborted
+0008.140 (0) Checking if we have a zip executable available
+0008.363 (0) Creation of backups of directories: beginning
+0010.214 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0012.705 (0) PHP event: code E_WARNING: filemtime(): stat failed for D:\xampp81\htdocs/wp-content/updraft/backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp (line 263, D:\xampp81\htdocs\wp-content\plugins\updraftplus\backup.php)
+0143.359 (0) Total entities for the zip file: 3056 directories, 15894 files (0 skipped as non-modified), 172.1 MB
+0143.502 (0) PHP event: code E_DEPRECATED: ZipArchive::open(): Using empty file as ZipArchive is deprecated (line 3586, D:\xampp81\htdocs\wp-content\plugins\updraftplus\backup.php)
+0143.755 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+0145.044 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 100 files added (on-disk size: 584.7 KB)
+0145.717 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 200 files added (on-disk size: 584.7 KB)
+0145.987 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 300 files added (on-disk size: 584.7 KB)
+0146.155 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 400 files added (on-disk size: 584.7 KB)
+0146.332 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 500 files added (on-disk size: 584.7 KB)
+0146.463 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 600 files added (on-disk size: 584.7 KB)
+0146.658 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 700 files added (on-disk size: 584.7 KB)
+0146.900 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 800 files added (on-disk size: 584.7 KB)
+0147.080 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0.7 MB, 857 (858) files added so far); re-opening (prior size: 584.7 KB)
+0155.472 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 900 files added (on-disk size: 1067 KB)
+0155.640 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 1000 files added (on-disk size: 1067 KB)
+0155.801 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 1100 files added (on-disk size: 1067 KB)
+0155.997 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 1200 files added (on-disk size: 1067 KB)
+0156.244 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 1300 files added (on-disk size: 1067 KB)
+0156.454 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 1400 files added (on-disk size: 1067 KB)
+0156.632 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 1500 files added (on-disk size: 1067 KB)
+0156.724 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 1600 files added (on-disk size: 1067 KB)
+0156.850 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 1700 files added (on-disk size: 1067 KB)
+0156.970 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 1800 files added (on-disk size: 1067 KB)
+0157.118 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (2.5 MB, 15894 files batched, 1001 (1859) added so far); re-opening (prior size: 1067 KB)
+0175.274 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 1900 files added (on-disk size: 2541.6 KB)
+0175.422 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 2000 files added (on-disk size: 2541.6 KB)
+0175.568 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 2100 files added (on-disk size: 2541.6 KB)
+0175.779 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 2200 files added (on-disk size: 2541.6 KB)
+0175.932 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 2300 files added (on-disk size: 2541.6 KB)
+0176.043 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 2400 files added (on-disk size: 2541.6 KB)
+0176.216 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 2500 files added (on-disk size: 2541.6 KB)
+0176.435 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 2600 files added (on-disk size: 2541.6 KB)
+0176.809 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 2700 files added (on-disk size: 2541.6 KB)
+0176.959 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 2800 files added (on-disk size: 2541.6 KB)
+0177.172 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (4.7 MB, 15894 files batched, 1001 (2860) added so far); re-opening (prior size: 2541.6 KB)
+0197.124 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 2900 files added (on-disk size: 4323.3 KB)
+0197.279 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 3000 files added (on-disk size: 4323.3 KB)
+0197.416 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 3100 files added (on-disk size: 4323.3 KB)
+0197.523 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 3200 files added (on-disk size: 4323.3 KB)
+0197.698 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 3300 files added (on-disk size: 4323.3 KB)
+0197.821 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 3400 files added (on-disk size: 4323.3 KB)
+0197.914 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 3500 files added (on-disk size: 4323.3 KB)
+0198.061 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 3600 files added (on-disk size: 4323.3 KB)
+0198.188 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 3700 files added (on-disk size: 4323.3 KB)
+0198.312 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 3800 files added (on-disk size: 4323.3 KB)
+0198.392 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (6.7 MB, 15894 files batched, 1001 (3861) added so far); re-opening (prior size: 4323.3 KB)
+0207.845 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 3900 files added (on-disk size: 6186.3 KB)
+0208.107 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 4000 files added (on-disk size: 6186.3 KB)
+0208.264 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 4100 files added (on-disk size: 6186.3 KB)
+0208.562 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 4200 files added (on-disk size: 6186.3 KB)
+0208.809 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 4300 files added (on-disk size: 6186.3 KB)
+0209.717 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 4400 files added (on-disk size: 6186.3 KB)
+0210.440 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (4.9 MB, 540 (4401) files added so far); re-opening (prior size: 6186.3 KB)
+0216.288 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 4500 files added (on-disk size: 8029.2 KB)
+0216.426 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 4600 files added (on-disk size: 8029.2 KB)
+0216.551 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 4700 files added (on-disk size: 8029.2 KB)
+0216.655 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 4800 files added (on-disk size: 8029.2 KB)
+0216.752 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 4900 files added (on-disk size: 8029.2 KB)
+0216.922 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 5000 files added (on-disk size: 8029.2 KB)
+0217.009 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 5100 files added (on-disk size: 8029.2 KB)
+0217.118 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 5200 files added (on-disk size: 8029.2 KB)
+0217.237 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 5300 files added (on-disk size: 8029.2 KB)
+0217.684 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 5400 files added (on-disk size: 8029.2 KB)
+0217.766 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (7 MB, 15894 files batched, 1001 (5402) added so far); re-opening (prior size: 8029.2 KB)
+0232.238 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 5500 files added (on-disk size: 10958.4 KB)
+0232.738 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 5600 files added (on-disk size: 10958.4 KB)
+0233.053 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 5700 files added (on-disk size: 10958.4 KB)
+0233.168 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 5800 files added (on-disk size: 10958.4 KB)
+0233.931 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 5900 files added (on-disk size: 10958.4 KB)
+0234.141 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (4.2 MB, 499 (5901) files added so far); re-opening (prior size: 10958.4 KB)
+0242.956 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 6000 files added (on-disk size: 13442.1 KB)
+0243.093 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 6100 files added (on-disk size: 13442.1 KB)
+0243.524 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 6200 files added (on-disk size: 13442.1 KB)
+0243.709 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 6300 files added (on-disk size: 13442.1 KB)
+0243.822 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 6400 files added (on-disk size: 13442.1 KB)
+0243.999 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 6500 files added (on-disk size: 13442.1 KB)
+0244.211 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 6600 files added (on-disk size: 13442.1 KB)
+0244.402 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 6700 files added (on-disk size: 13442.1 KB)
+0244.525 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 6800 files added (on-disk size: 13442.1 KB)
+0244.635 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 6900 files added (on-disk size: 13442.1 KB)
+0244.664 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (8.2 MB, 15894 files batched, 1001 (6902) added so far); re-opening (prior size: 13442.1 KB)
+0259.579 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 7000 files added (on-disk size: 15712 KB)
+0259.747 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 7100 files added (on-disk size: 15712 KB)
+0259.875 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 7200 files added (on-disk size: 15712 KB)
+0260.042 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 7300 files added (on-disk size: 15712 KB)
+0260.339 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 7400 files added (on-disk size: 15712 KB)
+0260.654 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 7500 files added (on-disk size: 15712 KB)
+0260.793 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 7600 files added (on-disk size: 15712 KB)
+0261.075 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 7700 files added (on-disk size: 15712 KB)
+0261.351 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 7800 files added (on-disk size: 15712 KB)
+0261.570 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 7900 files added (on-disk size: 15712 KB)
+0262.469 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (9 MB, 999 (7901) files added so far); re-opening (prior size: 15712 KB)
+0283.674 (0) The time we have been running (283) is approaching the resumption interval (300) - increasing resumption interval to 314
+0283.826 (0) The scheduled resumption is within 45 seconds - will reschedule
+0283.949 (0) Rescheduling resumption 1: moving to 359 seconds from now (1679612155)
+0284.674 (0) To decrease the likelihood of overlaps, increasing resumption interval to: 314 + 45 = 359
+0284.925 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 8000 files added (on-disk size: 18470.8 KB)
+0285.265 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 8100 files added (on-disk size: 18470.8 KB)
+0285.404 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 8200 files added (on-disk size: 18470.8 KB)
+0285.554 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 8300 files added (on-disk size: 18470.8 KB)
+0285.763 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 8400 files added (on-disk size: 18470.8 KB)
+0285.870 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 8500 files added (on-disk size: 18470.8 KB)
+0286.066 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 8600 files added (on-disk size: 18470.8 KB)
+0286.241 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 8700 files added (on-disk size: 18470.8 KB)
+0286.408 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 8800 files added (on-disk size: 18470.8 KB)
+0286.549 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 8900 files added (on-disk size: 18470.8 KB)
+0286.666 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (5.9 MB, 15894 files batched, 1001 (8902) added so far); re-opening (prior size: 18470.8 KB)
+0354.859 (0) The time we have been running (354.6) is approaching the resumption interval (359) - increasing resumption interval to 385
+0355.273 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 9000 files added (on-disk size: 20450.2 KB)
+0355.462 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 9100 files added (on-disk size: 20450.2 KB)
+0355.748 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 9200 files added (on-disk size: 20450.2 KB)
+0355.869 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 9300 files added (on-disk size: 20450.2 KB)
+0355.987 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 9400 files added (on-disk size: 20450.2 KB)
+0356.101 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 9500 files added (on-disk size: 20450.2 KB)
+0356.246 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (25 MB, 15894 files batched, 678 (9580) added so far); re-opening (prior size: 20450.2 KB)
+0427.981 (0) The time we have been running (427.6) is approaching the resumption interval (385) - increasing resumption interval to 458
+0428.261 (0) A useful amount of data was added after this amount of zip processing: 74.2 s (normalised: 74.1 s, rate: 345.4 KB/s)
+0428.448 (0) Performance is good - will increase the amount of data we attempt to batch (time=74.180562019348, normalised_time=74.116011899274, max_time=428.32996582985, data points known=1, old_max_bytes=26214400, new_max_bytes=90898682)
+0428.861 (0) The time we have been running (428.6) is approaching the resumption interval (458) - increasing resumption interval to 459
+0429.254 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 9600 files added (on-disk size: 27415.9 KB)
+0429.400 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 9700 files added (on-disk size: 27415.9 KB)
+0429.599 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 9800 files added (on-disk size: 27415.9 KB)
+0429.827 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 9900 files added (on-disk size: 27415.9 KB)
+0430.059 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 10000 files added (on-disk size: 27415.9 KB)
+0430.221 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 10100 files added (on-disk size: 27415.9 KB)
+0430.371 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 10200 files added (on-disk size: 27415.9 KB)
+0430.519 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 10300 files added (on-disk size: 27415.9 KB)
+0430.667 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 10400 files added (on-disk size: 27415.9 KB)
+0431.165 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (14.6 MB, 821 (10401) files added so far); re-opening (prior size: 27415.9 KB)
+0473.085 (0) The time we have been running (472.9) is approaching the resumption interval (459) - increasing resumption interval to 503
+0473.526 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 10500 files added (on-disk size: 29409.1 KB)
+0473.774 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 10600 files added (on-disk size: 29409.1 KB)
+0474.024 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 10700 files added (on-disk size: 29409.1 KB)
+0474.202 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 10800 files added (on-disk size: 29409.1 KB)
+0474.320 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 10900 files added (on-disk size: 29409.1 KB)
+0474.541 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 11000 files added (on-disk size: 29409.1 KB)
+0474.696 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 11100 files added (on-disk size: 29409.1 KB)
+0474.878 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 11200 files added (on-disk size: 29409.1 KB)
+0477.727 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (16.4 MB, 800 (11201) files added so far); re-opening (prior size: 29409.1 KB)
+0524.360 (0) The time we have been running (524.1) is approaching the resumption interval (503) - increasing resumption interval to 555
+0524.710 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 11300 files added (on-disk size: 34116.7 KB)
+0525.102 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 11400 files added (on-disk size: 34116.7 KB)
+0525.297 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 11500 files added (on-disk size: 34116.7 KB)
+0525.436 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 11600 files added (on-disk size: 34116.7 KB)
+0525.555 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 11700 files added (on-disk size: 34116.7 KB)
+0525.731 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 11800 files added (on-disk size: 34116.7 KB)
+0526.040 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 11900 files added (on-disk size: 34116.7 KB)
+0526.214 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 12000 files added (on-disk size: 34116.7 KB)
+0526.367 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 12100 files added (on-disk size: 34116.7 KB)
+0526.534 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 12200 files added (on-disk size: 34116.7 KB)
+0526.797 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (15 MB, 15894 files batched, 1001 (12202) added so far); re-opening (prior size: 34116.7 KB)
+0556.885 (0) The time we have been running (556.7) is approaching the resumption interval (555) - increasing resumption interval to 587
+0557.291 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 12300 files added (on-disk size: 40959.4 KB)
+0557.468 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 12400 files added (on-disk size: 40959.4 KB)
+0557.711 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 12500 files added (on-disk size: 40959.4 KB)
+0557.869 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 12600 files added (on-disk size: 40959.4 KB)
+0558.035 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 12700 files added (on-disk size: 40959.4 KB)
+0558.166 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 12800 files added (on-disk size: 40959.4 KB)
+0558.422 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 12900 files added (on-disk size: 40959.4 KB)
+0558.664 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 13000 files added (on-disk size: 40959.4 KB)
+0558.856 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 13100 files added (on-disk size: 40959.4 KB)
+0559.046 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 13200 files added (on-disk size: 40959.4 KB)
+0559.270 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (12.7 MB, 999 (13201) files added so far); re-opening (prior size: 40959.4 KB)
+0574.916 (0) The time we have been running (574.8) is approaching the resumption interval (587) - increasing resumption interval to 605
+0575.301 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 13300 files added (on-disk size: 43745.3 KB)
+0575.404 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 13400 files added (on-disk size: 43745.3 KB)
+0575.510 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 13500 files added (on-disk size: 43745.3 KB)
+0575.591 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 13600 files added (on-disk size: 43745.3 KB)
+0575.683 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 13700 files added (on-disk size: 43745.3 KB)
+0575.846 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 13800 files added (on-disk size: 43745.3 KB)
+0576.130 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 13900 files added (on-disk size: 43745.3 KB)
+0576.206 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 14000 files added (on-disk size: 43745.3 KB)
+0576.296 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 14100 files added (on-disk size: 43745.3 KB)
+0576.473 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 14200 files added (on-disk size: 43745.3 KB)
+0576.518 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (18.3 MB, 15894 files batched, 1001 (14202) added so far); re-opening (prior size: 43745.3 KB)
+0597.512 (0) The time we have been running (597.3) is approaching the resumption interval (605) - increasing resumption interval to 628
+0597.648 (0) The scheduled resumption is within 45 seconds - will reschedule
+0597.804 (0) Rescheduling resumption 1: moving to 673 seconds from now (1679612783)
+0598.077 (0) To decrease the likelihood of overlaps, increasing resumption interval to: 628 + 45 = 673
+0598.637 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 14300 files added (on-disk size: 48328.8 KB)
+0598.907 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 14400 files added (on-disk size: 48328.8 KB)
+0599.037 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 14500 files added (on-disk size: 48328.8 KB)
+0599.260 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 14600 files added (on-disk size: 48328.8 KB)
+0599.467 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 14700 files added (on-disk size: 48328.8 KB)
+0599.702 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 14800 files added (on-disk size: 48328.8 KB)
+0600.026 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 14900 files added (on-disk size: 48328.8 KB)
+0600.226 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 15000 files added (on-disk size: 48328.8 KB)
+0601.903 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (9.8 MB, 799 (15001) files added so far); re-opening (prior size: 48328.8 KB)
+0608.747 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 15100 files added (on-disk size: 51315.5 KB)
+0608.978 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 15200 files added (on-disk size: 51315.5 KB)
+0609.248 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 15300 files added (on-disk size: 51315.5 KB)
+0609.486 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 15400 files added (on-disk size: 51315.5 KB)
+0609.663 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 15500 files added (on-disk size: 51315.5 KB)
+0609.790 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 15600 files added (on-disk size: 51315.5 KB)
+0609.964 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 15700 files added (on-disk size: 51315.5 KB)
+0610.100 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (3.2 MB, 700 (15701) files added so far); re-opening (prior size: 51315.5 KB)
+0615.349 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip.tmp: 15800 files added (on-disk size: 52463.5 KB)
+0632.608 (0) Created plugins zip (0) - 53604.1 KB in 619.8 s (86.5 KB/s) (sha1: b5ce0e59af0d0658be7fed20d47b512a6aa083a1, sha256: dfc650a23220d96e09c18a49f2eec562368b962db09aa933c1067b43f9e05721)
+0633.453 (0) Beginning creation of dump of themes (split every: 400 MB)
+0633.733 (0) PHP event: code E_WARNING: filemtime(): stat failed for D:\xampp81\htdocs/wp-content/updraft/backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-themes.zip.tmp (line 263, D:\xampp81\htdocs\wp-content\plugins\updraftplus\backup.php)
+0634.055 (0) Total entities for the zip file: 9 directories, 40 files (0 skipped as non-modified), 0.6 MB
+0634.084 (0) PHP event: code E_DEPRECATED: ZipArchive::open(): Using empty file as ZipArchive is deprecated (line 3586, D:\xampp81\htdocs\wp-content\plugins\updraftplus\backup.php)
+0635.906 (0) Created themes zip (0) - 438.4 KB in 2.1 s (211.8 KB/s) (sha1: e5b911bde60ba6fc5bb40b96e55ff7c591d0ee9e, sha256: 82f753a3fdc2fea657077ebc8d14739475bfc4801c154027f749d6c1c3a31777)
+0636.011 (0) Exclusion option setting (uploads): backup*,*backups,backwpup*,wp-clone,snapshots
+0636.073 (0) Looking for candidates to backup in: D:\xampp81\htdocs/wp-content/uploads
+0636.114 (0) finding files: 2023: adding to list (1)
+0636.174 (0) finding files: fonts: adding to list (2)
+0636.252 (0) finding files: madxartwork: adding to list (3)
+0636.291 (0) finding files: piotnet-addons-for-madxartwork: adding to list (4)
+0636.331 (0) finding files: vj-wp-import-export: adding to list (5)
+0636.550 (0) finding files: wpallexport: adding to list (6)
+0636.600 (0) finding files: wpallimport: adding to list (7)
+0636.628 (0) Beginning creation of dump of uploads (split every: 400 MB)
+0636.707 (0) PHP event: code E_WARNING: filemtime(): stat failed for D:\xampp81\htdocs/wp-content/updraft/backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-uploads.zip.tmp (line 263, D:\xampp81\htdocs\wp-content\plugins\updraftplus\backup.php)
+0638.381 (0) Total entities for the zip file: 113 directories, 336 files (0 skipped as non-modified), 29.6 MB
+0638.432 (0) PHP event: code E_DEPRECATED: ZipArchive::open(): Using empty file as ZipArchive is deprecated (line 3586, D:\xampp81\htdocs\wp-content\plugins\updraftplus\backup.php)
+0638.650 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-uploads.zip.tmp: 100 files added (on-disk size: 0 KB)
+0638.901 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-uploads.zip.tmp: 200 files added (on-disk size: 0 KB)
+0639.080 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (28.7 MB, 255 (255) files added so far); re-opening (prior size: 0 KB)
+0650.044 (0) The time we have been running (649.8) is approaching the resumption interval (673) - increasing resumption interval to 680
+0650.227 (0) Zip: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-uploads.zip.tmp: 300 files added (on-disk size: 29126.6 KB)
+0653.210 (0) The time we have been running (652.8) is approaching the resumption interval (680) - increasing resumption interval to 683
+0655.393 (0) Created uploads zip (0) - 29230.8 KB in 18.6 s (1571.9 KB/s) (sha1: 63b889465f9f5d503bc62a7c1c36448371b5c010, sha256: 7a38a8ae8d2e4cba89eb552b4c89f37ad41f7ce2fc31494f38dfcd073de99e72)
+0655.592 (0) No backup of wpcore: excluded by user's options
+0655.901 (0) Beginning backup of other directories found in the content directory (index: 0)
+0656.040 (0) Exclusion option setting (others): upgrade,cache,updraft,backup*,*backups,mysql.sql,debug.log
+0656.098 (0) Looking for candidates to backup in: D:\xampp81\htdocs/wp-content
+0656.554 (0) finding files: cache: skipping: excluded by options
+0656.658 (0) finding files: index.php: adding to list (1)
+0656.699 (0) finding files: mu-plugins: adding to list (2)
+0656.738 (0) finding files: plugins: skipping: this is the plugins directory
+0656.766 (0) finding files: themes: skipping: this is the themes directory
+0656.817 (0) finding files: updraft: skipping: this is the updraft directory
+0656.868 (0) finding files: uploads: skipping: this is the uploads directory
+0656.900 (0) PHP event: code E_WARNING: filemtime(): stat failed for D:\xampp81\htdocs/wp-content/updraft/backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-others.zip.tmp (line 263, D:\xampp81\htdocs\wp-content\plugins\updraftplus\backup.php)
+0657.057 (0) Total entities for the zip file: 1 directories, 3 files (0 skipped as non-modified), 0 MB
+0657.181 (0) PHP event: code E_DEPRECATED: ZipArchive::open(): Using empty file as ZipArchive is deprecated (line 3586, D:\xampp81\htdocs\wp-content\plugins\updraftplus\backup.php)
+0657.327 (0) The time we have been running (657.2) is approaching the resumption interval (683) - increasing resumption interval to 688
+0657.464 (0) Created others zip (0) - 8.5 KB in 0.5 s (16.2 KB/s) (sha1: 28edaa8537df4ecadfb54e19bb710238b945efff, sha256: e7b570bed8c867d58234d9727d74320dbff5ea97766e4ba1f09ec88c1946c002)
+0657.494 (0) No backup of more: excluded by user's options
+0657.571 (0) Saving backup status to database (elements: 8)
+0657.606 (0) Beginning creation of database dump (WordPress DB)
+0657.698 (0) SQL compatibility mode is: NO_ZERO_IN_DATE,NO_ENGINE_SUBSTITUTION
+0657.988 (0) PHP event: code E_WARNING: unlink(D:\xampp81\htdocs/wp-content/updraft/58f80eb928f10710f0e14998627012a4.sqltest.tmp): No such file or directory (line 1684, D:\xampp81\htdocs\wp-content\plugins\updraftplus\class-updraftplus.php)
+0658.168 (0) Table rba_options: Total expected rows (approximate): 478
+0658.419 (0) Table rba_options: Rows added in this batch (next record: 2958): 474 (uncompressed bytes in this segment=194676) in 0.22 seconds
+0658.619 (0) The time we have been running (658.5) is approaching the resumption interval (688) - increasing resumption interval to 689
+0658.735 (0) Table rba_options: finishing file(s) (2, 35.7 KB)
+0658.797 (0) Table rba_users: Total expected rows (approximate): 0
+0659.197 (0) Table rba_users: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1207) in 0.02 seconds
+0659.316 (0) The time we have been running (659.2) is approaching the resumption interval (689) - increasing resumption interval to 690
+0659.413 (0) Table rba_users: finishing file(s) (2, 0.6 KB)
+0659.475 (0) Table rba_usermeta: Total expected rows (approximate): 29
+0659.521 (0) Table rba_usermeta: Rows added in this batch (next record: 29): 29 (uncompressed bytes in this segment=5001) in 0.01 seconds
+0659.629 (0) Table rba_usermeta: finishing file(s) (2, 2.4 KB)
+0659.755 (0) Table rba_commentmeta: Total expected rows (approximate): 0
+0659.884 (0) Table rba_commentmeta: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=640) in 0.10 seconds
+0660.284 (0) The time we have been running (660.1) is approaching the resumption interval (690) - increasing resumption interval to 691
+0660.372 (0) Table rba_commentmeta: finishing file(s) (2, 0.4 KB)
+0660.445 (0) Table rba_comments: Total expected rows (approximate): 0
+0660.547 (0) Table rba_comments: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=1899) in 0.07 seconds
+0660.697 (0) Table rba_comments: finishing file(s) (2, 0.7 KB)
+0660.809 (0) Table rba_links: Total expected rows (approximate): 0
+0660.874 (0) Table rba_links: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=1033) in 0.04 seconds
+0661.080 (0) The time we have been running (661) is approaching the resumption interval (691) - increasing resumption interval to 692
+0661.345 (0) Table rba_links: finishing file(s) (2, 0.5 KB)
+0663.462 (0) Table rba_postmeta: Total expected rows (approximate): 2214
+0666.311 (0) Table rba_postmeta: Rows added in this batch (next record: 4479): 1931 (uncompressed bytes in this segment=687884) in 2.68 seconds
+0666.642 (0) The time we have been running (666.4) is approaching the resumption interval (692) - increasing resumption interval to 697
+0667.193 (0) Table rba_postmeta: finishing file(s) (2, 36.5 KB)
+0667.345 (0) Table rba_posts: Total expected rows (approximate): 303
+0671.689 (0) Table rba_posts: Rows added in this batch (next record: 500): 322 (uncompressed bytes in this segment=872408) in 4.23 seconds
+0673.454 (0) The time we have been running (672) is approaching the resumption interval (697) - increasing resumption interval to 702
+0675.185 (0) The time we have been running (674.7) is approaching the resumption interval (702) - increasing resumption interval to 705
+0675.861 (0) Table rba_posts: finishing file(s) (2, 71.8 KB)
+0676.166 (0) Table rba_term_relationships: Total expected rows (approximate): 985
+0677.174 (0) Table rba_term_relationships: Rows added in this batch (next record: 100000): 985 (uncompressed bytes in this segment=14871) in 0.72 seconds
+0677.604 (0) The time we have been running (677.3) is approaching the resumption interval (705) - increasing resumption interval to 708
+0677.713 (0) Table rba_term_relationships: finishing file(s) (2, 2.7 KB)
+0677.797 (0) Table rba_term_taxonomy: Total expected rows (approximate): 26
+0678.034 (0) Table rba_term_taxonomy: Rows added in this batch (next record: 26): 26 (uncompressed bytes in this segment=1757) in 0.17 seconds
+0678.232 (0) The time we have been running (678.1) is approaching the resumption interval (708) - increasing resumption interval to 709
+0678.384 (0) Table rba_term_taxonomy: finishing file(s) (2, 0.6 KB)
+0678.516 (0) Table rba_termmeta: Total expected rows (approximate): 1233
+0678.929 (0) Table rba_termmeta: Rows added in this batch (next record: 1245): 1233 (uncompressed bytes in this segment=93294) in 0.03 seconds
+0679.383 (0) The time we have been running (679.1) is approaching the resumption interval (709) - increasing resumption interval to 710
+0679.821 (0) Table rba_termmeta: finishing file(s) (2, 15.3 KB)
+0679.915 (0) Table rba_terms: Total expected rows (approximate): 26
+0679.967 (0) Table rba_terms: Rows added in this batch (next record: 26): 26 (uncompressed bytes in this segment=1561) in 0.01 seconds
+0680.232 (0) The time we have been running (680) is approaching the resumption interval (710) - increasing resumption interval to 711
+0680.514 (0) Table rba_terms: finishing file(s) (2, 0.7 KB)
+0680.619 (0) Table rba_ac_segments: Total expected rows (approximate): 0
+0680.671 (0) Table rba_ac_segments: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=704) in 0.03 seconds
+0680.841 (0) Table rba_ac_segments: finishing file(s) (2, 0.4 KB)
+0680.903 (0) Table rba_admin_columns: Total expected rows (approximate): 2
+0680.964 (0) Table rba_admin_columns: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=5739) in 0.02 seconds
+0681.113 (0) The time we have been running (681) is approaching the resumption interval (711) - increasing resumption interval to 712
+0681.719 (0) Table rba_admin_columns: finishing file(s) (2, 1.1 KB)
+0681.812 (0) Table rba_bulk_edit: Total expected rows (approximate): 0
+0681.874 (0) Table rba_bulk_edit: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=845) in 0.04 seconds
+0682.174 (0) The time we have been running (682) is approaching the resumption interval (712) - increasing resumption interval to 713
+0682.250 (0) Table rba_bulk_edit: finishing file(s) (2, 0.4 KB)
+0682.312 (0) Table rba_jet_post_types: Total expected rows (approximate): 0
+0682.385 (0) Table rba_jet_post_types: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=598) in 0.04 seconds
+0683.880 (0) The time we have been running (683.6) is approaching the resumption interval (713) - increasing resumption interval to 714
+0683.963 (0) Table rba_jet_post_types: finishing file(s) (2, 0.3 KB)
+0684.081 (0) Table rba_jet_taxonomies: Total expected rows (approximate): 0
+0684.688 (0) Table rba_jet_taxonomies: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=633) in 0.57 seconds
+0685.565 (0) The time we have been running (685.3) is approaching the resumption interval (714) - increasing resumption interval to 716
+0685.806 (0) Table rba_jet_taxonomies: finishing file(s) (2, 0.4 KB)
+0685.868 (0) Table rba_pmxe_exports: Total expected rows (approximate): 1
+0686.010 (0) Table rba_pmxe_exports: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=34762) in 0.09 seconds
+0686.335 (0) The time we have been running (686.2) is approaching the resumption interval (716) - increasing resumption interval to 717
+0686.595 (0) Table rba_pmxe_exports: finishing file(s) (2, 6.1 KB)
+0686.699 (0) Table rba_pmxe_google_cats: Total expected rows (approximate): 5512
+0687.193 (0) Table rba_pmxe_google_cats: Rows added in this batch (next record: 505832): 5371 (uncompressed bytes in this segment=327527) in 0.43 seconds
+0687.835 (0) The time we have been running (687.2) is approaching the resumption interval (717) - increasing resumption interval to 718
+0687.964 (0) Table rba_pmxe_google_cats: finishing file(s) (2, 75.3 KB)
+0688.027 (0) Table rba_pmxe_posts: Total expected rows (approximate): 3
+0688.092 (0) Table rba_pmxe_posts: Rows added in this batch (next record: 3): 3 (uncompressed bytes in this segment=649) in 0.01 seconds
+0688.278 (0) The time we have been running (688.2) is approaching the resumption interval (718) - increasing resumption interval to 719
+0688.429 (0) Table rba_pmxe_posts: finishing file(s) (2, 0.4 KB)
+0688.606 (0) Table rba_pmxe_templates: Total expected rows (approximate): 0
+0688.735 (0) Table rba_pmxe_templates: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=522) in 0.07 seconds
+0690.961 (0) The time we have been running (690.6) is approaching the resumption interval (719) - increasing resumption interval to 721
+0691.197 (0) Table rba_pmxe_templates: finishing file(s) (2, 0.3 KB)
+0691.303 (0) Table rba_pmxi_files: Total expected rows (approximate): 2
+0691.408 (0) Table rba_pmxi_files: Rows added in this batch (next record: 3): 2 (uncompressed bytes in this segment=992) in 0.04 seconds
+0691.774 (0) The time we have been running (691.5) is approaching the resumption interval (721) - increasing resumption interval to 722
+0692.156 (0) Table rba_pmxi_files: finishing file(s) (2, 0.6 KB)
+0692.290 (0) Table rba_pmxi_hash: Total expected rows (approximate): 0
+0692.392 (0) Table rba_pmxi_hash: Rows added in this batch (next record: 0): 0 (uncompressed bytes in this segment=528) in 0.04 seconds
+0692.618 (0) The time we have been running (692.5) is approaching the resumption interval (722) - increasing resumption interval to 723
+0692.804 (0) Table rba_pmxi_hash: finishing file(s) (2, 0.3 KB)
+0692.948 (0) Table rba_pmxi_history: Total expected rows (approximate): 0
+0693.219 (0) Table rba_pmxi_history: Rows added in this batch (next record: 1): 1 (uncompressed bytes in this segment=838) in 0.19 seconds
+0693.343 (0) The time we have been running (693.3) is approaching the resumption interval (723) - increasing resumption interval to 724
+0693.462 (0) Table rba_pmxi_history: finishing file(s) (2, 0.5 KB)
+0693.535 (0) Table rba_pmxi_images: Total expected rows (approximate): 0
+0693.616 (0) Table rba_pmxi_images: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=559) in 0.05 seconds
+0693.745 (0) Table rba_pmxi_images: finishing file(s) (2, 0.3 KB)
+0693.984 (0) Table rba_pmxi_imports: Total expected rows (approximate): 2
+0694.377 (0) Table rba_pmxi_imports: Rows added in this batch (next record: 2): 2 (uncompressed bytes in this segment=26374) in 0.28 seconds
+0695.480 (0) The time we have been running (695.3) is approaching the resumption interval (724) - increasing resumption interval to 726
+0696.054 (0) Table rba_pmxi_imports: finishing file(s) (2, 4.7 KB)
+0696.159 (0) Table rba_pmxi_posts: Total expected rows (approximate): 2
+0696.240 (0) Table rba_pmxi_posts: Rows added in this batch (next record: 3): 3 (uncompressed bytes in this segment=805) in 0.05 seconds
+0696.420 (0) The time we have been running (696.3) is approaching the resumption interval (726) - increasing resumption interval to 727
+0696.727 (0) Table rba_pmxi_posts: finishing file(s) (2, 0.4 KB)
+0696.791 (0) Table rba_pmxi_templates: Total expected rows (approximate): 0
+0696.858 (0) Table rba_pmxi_templates: Rows added in this batch (next record: -1): 0 (uncompressed bytes in this segment=818) in 0.04 seconds
+0696.941 (0) Table rba_pmxi_templates: finishing file(s) (2, 0.4 KB)
+0697.012 (0) Table rba_wpie_template: Total expected rows (approximate): 17
+0697.429 (0) Table rba_wpie_template: Rows added in this batch (next record: 23): 20 (uncompressed bytes in this segment=584386) in 0.39 seconds
+0697.692 (0) The time we have been running (697.5) is approaching the resumption interval (727) - increasing resumption interval to 728
+0698.161 (0) Table rba_wpie_template: finishing file(s) (2, 62.2 KB)
+0698.189 (0) PHP event: code E_WARNING: filemtime(): stat failed for D:\xampp81\htdocs/wp-content/updraft/backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-db.gz (line 1816, D:\xampp81\htdocs\wp-content\plugins\updraftplus\backup.php)
+0698.219 (0) backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-db-table-rba_options.table.tmpr2959.gz (1/29/fopen): adding to final database dump
+0698.249 (0) backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-db-table-rba_options.table.gz (2/29/fopen): adding to final database dump
+0698.274 (0) backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-db-table-rba_users.table.tmpr2.gz (3/29/fopen): adding to final database dump
+0698.302 (0) backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-db-table-rba_users.table.gz (4/29/fopen): adding to final database dump
+0698.352 (0) backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-db-table-rba_usermeta.table.tmpr30.gz (5/29/fopen): adding to final database dump
+0698.382 (0) backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-db-table-rba_usermeta.table.gz (6/29/fopen): adding to final database dump
+0698.409 (0) backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-db-table-rba_commentmeta.table.tmpr0.gz (7/29/fopen): adding to final database dump
+0698.449 (0) backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-db-table-rba_commentmeta.table.gz (8/29/fopen): adding to final database dump
+0698.510 (0) backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-db-table-rba_comments.table.tmpr2.gz (9/29/fopen): adding to final database dump
+0698.550 (0) backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-db-table-rba_comments.table.gz (10/29/fopen): adding to final database dump
+0698.577 (0) backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-db-table-rba_links.table.tmpr0.gz (11/29/fopen): adding to final database dump
+0698.617 (0) backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-db-table-rba_links.table.gz (12/29/fopen): adding to final database dump
+0698.657 (0) backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-db-table-rba_postmeta.table.tmpr4480.gz (13/29/fopen): adding to final database dump
+0698.706 (0) backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-db-table-rba_postmeta.table.gz (14/29/fopen): adding to final database dump
+0698.758 (0) backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-db-table-rba_posts.table.tmpr501.gz (15/29/fopen): adding to final database dump
+0698.806 (0) backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-db-table-rba_posts.table.gz (16/29/fopen): adding to final database dump
+0698.924 (0) backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-db-table-rba_term_relationships.table.tmpr100001.gz (17/29/fopen): adding to final database dump
+0699.033 (0) backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-db-table-rba_term_relationships.table.gz (18/29/fopen): adding to final database dump
+0699.078 (0) backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-db-table-rba_term_taxonomy.table.tmpr27.gz (19/29/fopen): adding to final database dump
+0699.124 (0) backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-db-table-rba_term_taxonomy.table.gz (20/29/fopen): adding to final database dump
+0699.152 (0) backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-db-table-rba_termmeta.table.tmpr1246.gz (21/29/fopen): adding to final database dump
+0699.182 (0) backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-db-table-rba_termmeta.table.gz (22/29/fopen): adding to final database dump
+0699.219 (0) backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-db-table-rba_terms.table.tmpr27.gz (23/29/fopen): adding to final database dump
+0699.310 (0) backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-db-table-rba_terms.table.gz (24/29/fopen): adding to final database dump
+0699.388 (0) backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-db-table-rba_ac_segments.table.tmpr0.gz (25/29/fopen): adding to final database dump
+0699.453 (0) backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-db-table-rba_ac_segments.table.gz (26/29/fopen): adding to final database dump
+0699.634 (0) backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-db-table-rba_admin_columns.table.tmpr3.gz (27/29/fopen): adding to final database dump
+0699.652 (0) backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-db-table-rba_admin_columns.table.gz (28/29/fopen): adding to final database dump
+0699.714 (0) backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-db-table-rba_bulk_edit.table.tmpr0.gz (29/29/fopen): adding to final database dump
+0699.753 (0) backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-db-table-rba_bulk_edit.table.gz (30/29/fopen): adding to final database dump
+0699.804 (0) backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-db-table-rba_jet_post_types.table.tmpr0.gz (31/29/fopen): adding to final database dump
+0699.889 (0) backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-db-table-rba_jet_post_types.table.gz (32/29/fopen): adding to final database dump
+0699.960 (0) backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-db-table-rba_jet_taxonomies.table.tmpr0.gz (33/29/fopen): adding to final database dump
+0700.032 (0) backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-db-table-rba_jet_taxonomies.table.gz (34/29/fopen): adding to final database dump
+0700.083 (0) backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-db-table-rba_pmxe_exports.table.tmpr2.gz (35/29/fopen): adding to final database dump
+0700.209 (0) backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-db-table-rba_pmxe_exports.table.gz (36/29/fopen): adding to final database dump
+0700.236 (0) backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-db-table-rba_pmxe_google_cats.table.tmpr505833.gz (37/29/fopen): adding to final database dump
+0700.273 (0) backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-db-table-rba_pmxe_google_cats.table.gz (38/29/fopen): adding to final database dump
+0700.386 (0) backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-db-table-rba_pmxe_posts.table.tmpr4.gz (39/29/fopen): adding to final database dump
+0700.436 (0) backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-db-table-rba_pmxe_posts.table.gz (40/29/fopen): adding to final database dump
+0700.532 (0) backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-db-table-rba_pmxe_templates.table.tmpr0.gz (41/29/fopen): adding to final database dump
+0700.549 (0) backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-db-table-rba_pmxe_templates.table.gz (42/29/fopen): adding to final database dump
+0700.816 (0) backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-db-table-rba_pmxi_files.table.tmpr4.gz (43/29/fopen): adding to final database dump
+0702.044 (0) backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-db-table-rba_pmxi_files.table.gz (44/29/fopen): adding to final database dump
+0702.436 (0) backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-db-table-rba_pmxi_hash.table.tmpr1.gz (45/29/fopen): adding to final database dump
+0702.552 (0) backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-db-table-rba_pmxi_hash.table.gz (46/29/fopen): adding to final database dump
+0702.621 (0) backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-db-table-rba_pmxi_history.table.tmpr2.gz (47/29/fopen): adding to final database dump
+0702.650 (0) backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-db-table-rba_pmxi_history.table.gz (48/29/fopen): adding to final database dump
+0702.795 (0) backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-db-table-rba_pmxi_images.table.tmpr0.gz (49/29/fopen): adding to final database dump
+0702.835 (0) backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-db-table-rba_pmxi_images.table.gz (50/29/fopen): adding to final database dump
+0702.882 (0) backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-db-table-rba_pmxi_imports.table.tmpr3.gz (51/29/fopen): adding to final database dump
+0702.910 (0) backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-db-table-rba_pmxi_imports.table.gz (52/29/fopen): adding to final database dump
+0702.937 (0) backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-db-table-rba_pmxi_posts.table.tmpr4.gz (53/29/fopen): adding to final database dump
+0702.991 (0) backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-db-table-rba_pmxi_posts.table.gz (54/29/fopen): adding to final database dump
+0703.072 (0) backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-db-table-rba_pmxi_templates.table.tmpr0.gz (55/29/fopen): adding to final database dump
+0703.100 (0) backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-db-table-rba_pmxi_templates.table.gz (56/29/fopen): adding to final database dump
+0703.142 (0) backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-db-table-rba_wpie_template.table.tmpr24.gz (57/29/fopen): adding to final database dump
+0703.173 (0) backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-db-table-rba_wpie_template.table.gz (58/29/fopen): adding to final database dump
+0703.227 (0) backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-db.gz: finished writing out complete database file (322.8 KB)
+0703.848 (0) Total database tables backed up: 29 (backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-db.gz, size: 330638, sha1: 697a818f9151d282682ac8bcf18e65f53fbb72f3, sha256: cc38856fbbe1e8c2a855d27c46a3bbe751bd7f8cdf71a02583bfc3dc07d2d678)
+0704.051 (0) backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip: plugins: This file has not yet been successfully uploaded: will queue
+0704.068 (0) backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-themes.zip: themes: This file has not yet been successfully uploaded: will queue
+0704.096 (0) backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-uploads.zip: uploads: This file has not yet been successfully uploaded: will queue
+0704.125 (0) backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-others.zip: others: This file has not yet been successfully uploaded: will queue
+0704.153 (0) backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-db.gz: db: This file has not yet been successfully uploaded: will queue
+0704.181 (0) Saving backup history. Total backup size: 81.6 MB
+0704.227 (0) Requesting upload of the files that have not yet been successfully uploaded (5)
+0704.327 (0) Cloud backup selection (1/1): googledrive with instance (1/1) (last)
+0704.366 (0) Beginning dispatch of backup to remote (googledrive) (instance identifier s-185947a95dd29f1c79aab51a13a618db)
+0704.636 (0) PHP event: code E_DEPRECATED: Return type of Google_Model::offsetExists($offset) should either be compatible with ArrayAccess::offsetExists(mixed $offset): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice (line 249, D:\xampp81\htdocs\wp-content\plugins\updraftplus\includes\Google\Model.php)
+0704.696 (0) PHP event: code E_DEPRECATED: Return type of Google_Model::offsetGet($offset) should either be compatible with ArrayAccess::offsetGet(mixed $offset): mixed, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice (line 254, D:\xampp81\htdocs\wp-content\plugins\updraftplus\includes\Google\Model.php)
+0704.881 (0) PHP event: code E_DEPRECATED: Return type of Google_Model::offsetSet($offset, $value) should either be compatible with ArrayAccess::offsetSet(mixed $offset, mixed $value): void, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice (line 261, D:\xampp81\htdocs\wp-content\plugins\updraftplus\includes\Google\Model.php)
+0705.080 (0) PHP event: code E_DEPRECATED: Return type of Google_Model::offsetUnset($offset) should either be compatible with ArrayAccess::offsetUnset(mixed $offset): void, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice (line 271, D:\xampp81\htdocs\wp-content\plugins\updraftplus\includes\Google\Model.php)
+0705.234 (0) PHP event: code E_DEPRECATED: Return type of Google_Collection::current() should either be compatible with Iterator::current(): mixed, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice (line 24, D:\xampp81\htdocs\wp-content\plugins\updraftplus\includes\Google\Collection.php)
+0705.334 (0) PHP event: code E_DEPRECATED: Return type of Google_Collection::next() should either be compatible with Iterator::next(): void, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice (line 40, D:\xampp81\htdocs\wp-content\plugins\updraftplus\includes\Google\Collection.php)
+0705.408 (0) PHP event: code E_DEPRECATED: Return type of Google_Collection::key() should either be compatible with Iterator::key(): mixed, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice (line 32, D:\xampp81\htdocs\wp-content\plugins\updraftplus\includes\Google\Collection.php)
+0705.458 (0) PHP event: code E_DEPRECATED: Return type of Google_Collection::valid() should either be compatible with Iterator::valid(): bool, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice (line 45, D:\xampp81\htdocs\wp-content\plugins\updraftplus\includes\Google\Collection.php)
+0705.519 (0) PHP event: code E_DEPRECATED: Return type of Google_Collection::rewind() should either be compatible with Iterator::rewind(): void, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice (line 16, D:\xampp81\htdocs\wp-content\plugins\updraftplus\includes\Google\Collection.php)
+0705.604 (0) PHP event: code E_DEPRECATED: Return type of Google_Collection::count() should either be compatible with Countable::count(): int, or the #[\ReturnTypeWillChange] attribute should be used to temporarily suppress the notice (line 51, D:\xampp81\htdocs\wp-content\plugins\updraftplus\includes\Google\Collection.php)
+0720.660 (0) Google Drive: id_from_path failure: exception (UDP_Google_IO_Exception): Operation timed out after 15013 milliseconds with 0 out of 0 bytes received (line: 117, file: D:\xampp81\htdocs\wp-content\plugins\updraftplus\includes\Google\IO\Curl.php)
+0720.715 (0) Google Drive: id_from_path: retry (2)
+0726.190 (0) Google Drive: quota usage: used=0.3 MB, total=15360 MB, available=15359.7 MB
+0726.580 (0) Google Drive: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip: Attempting to upload to Google Drive (into folder id: 1RVPIxD3AsUTDgJRaSdro_8r2Gx7DxLZP)
+0726.609 (0) PHP event: code E_DEPRECATED: strlen(): Passing null to parameter #1 ($string) of type string is deprecated (line 109, D:\xampp81\htdocs\wp-content\plugins\updraftplus\includes\google-extensions.php)
+0727.396 (0) PHP event: code E_DEPRECATED: str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated (line 111, D:\xampp81\htdocs\wp-content\plugins\updraftplus\includes\Google\Http\Request.php)
+0730.810 (0) The time we have been running (729.6) is approaching the resumption interval (728) - increasing resumption interval to 760
+0731.068 (0) Googledrive chunked upload: 1.9 % uploaded (1048576)
+0731.415 (0) PHP event: code E_DEPRECATED: str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated (line 111, D:\xampp81\htdocs\wp-content\plugins\updraftplus\includes\Google\Http\Request.php)
+0732.081 (0) The time we have been running (731.9) is approaching the resumption interval (760) - increasing resumption interval to 762
+0732.189 (0) Googledrive chunked upload: 3.8 % uploaded (2097152 - increasing chunk size to 2048 KB - memory usage: 86.9 / 94)
+0732.257 (0) PHP event: code E_DEPRECATED: str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated (line 111, D:\xampp81\htdocs\wp-content\plugins\updraftplus\includes\Google\Http\Request.php)
+0733.130 (0) The time we have been running (732.9) is approaching the resumption interval (762) - increasing resumption interval to 763
+0733.231 (0) Googledrive chunked upload: 7.6 % uploaded (4194304 - increasing chunk size to 4096 KB - memory usage: 86.9 / 94)
+0733.394 (0) PHP event: code E_DEPRECATED: str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated (line 111, D:\xampp81\htdocs\wp-content\plugins\updraftplus\includes\Google\Http\Request.php)
+0735.593 (0) The time we have been running (735.2) is approaching the resumption interval (763) - increasing resumption interval to 766
+0735.831 (0) Googledrive chunked upload: 15.3 % uploaded (8388608 - increasing chunk size to 8192 KB - memory usage: 86.9 / 94)
+0735.980 (0) PHP event: code E_DEPRECATED: str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated (line 111, D:\xampp81\htdocs\wp-content\plugins\updraftplus\includes\Google\Http\Request.php)
+0742.636 (0) The time we have been running (741.4) is approaching the resumption interval (766) - increasing resumption interval to 772
+0742.745 (0) Googledrive chunked upload: 30.6 % uploaded (16777216)
+0742.941 (0) PHP event: code E_DEPRECATED: str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated (line 111, D:\xampp81\htdocs\wp-content\plugins\updraftplus\includes\Google\Http\Request.php)
+0748.053 (0) The time we have been running (748) is approaching the resumption interval (772) - increasing resumption interval to 778
+0748.121 (0) Googledrive chunked upload: 45.8 % uploaded (25165824)
+0748.203 (0) PHP event: code E_DEPRECATED: str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated (line 111, D:\xampp81\htdocs\wp-content\plugins\updraftplus\includes\Google\Http\Request.php)
+0752.541 (0) The time we have been running (752.4) is approaching the resumption interval (778) - increasing resumption interval to 783
+0752.587 (0) Googledrive chunked upload: 61.1 % uploaded (33554432)
+0752.649 (0) PHP event: code E_DEPRECATED: str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated (line 111, D:\xampp81\htdocs\wp-content\plugins\updraftplus\includes\Google\Http\Request.php)
+0758.294 (0) The time we have been running (758.1) is approaching the resumption interval (783) - increasing resumption interval to 789
+0758.407 (0) Googledrive chunked upload: 76.4 % uploaded (41943040)
+0758.450 (0) PHP event: code E_DEPRECATED: str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated (line 111, D:\xampp81\htdocs\wp-content\plugins\updraftplus\includes\Google\Http\Request.php)
+0762.756 (0) The time we have been running (762.6) is approaching the resumption interval (789) - increasing resumption interval to 793
+0762.835 (0) Googledrive chunked upload: 91.7 % uploaded (50331648)
+0762.922 (0) PHP event: code E_DEPRECATED: str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated (line 111, D:\xampp81\htdocs\wp-content\plugins\updraftplus\includes\Google\Http\Request.php)
+0766.343 (0) The time we have been running (766.3) is approaching the resumption interval (793) - increasing resumption interval to 797
+0766.400 (0) Googledrive chunked upload: 100 % uploaded (50331648)
+0766.464 (0) Google Drive: OK: Archive backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip uploaded in 39.86 seconds
+0766.503 (0) Recording as successfully uploaded: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip
+0766.886 (0) Deleting local file: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-plugins.zip: OK
+0767.458 (0) Google Drive: quota usage: used=52.7 MB, total=15360 MB, available=15307.3 MB
+0767.482 (0) Google Drive: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-themes.zip: Attempting to upload to Google Drive (into folder id: 1RVPIxD3AsUTDgJRaSdro_8r2Gx7DxLZP)
+0767.511 (0) PHP event: code E_DEPRECATED: strlen(): Passing null to parameter #1 ($string) of type string is deprecated (line 109, D:\xampp81\htdocs\wp-content\plugins\updraftplus\includes\google-extensions.php)
+0768.182 (0) PHP event: code E_DEPRECATED: str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated (line 111, D:\xampp81\htdocs\wp-content\plugins\updraftplus\includes\Google\Http\Request.php)
+0770.772 (0) The time we have been running (770.6) is approaching the resumption interval (797) - increasing resumption interval to 801
+0770.829 (0) Googledrive chunked upload: 100 % uploaded
+0770.936 (0) Google Drive: OK: Archive backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-themes.zip uploaded in 3.43 seconds
+0770.954 (0) Recording as successfully uploaded: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-themes.zip
+0771.013 (0) Deleting local file: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-themes.zip: OK
+0771.553 (0) Google Drive: quota usage: used=53.1 MB, total=15360 MB, available=15306.9 MB
+0771.768 (0) Google Drive: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-uploads.zip: Attempting to upload to Google Drive (into folder id: 1RVPIxD3AsUTDgJRaSdro_8r2Gx7DxLZP)
+0771.954 (0) PHP event: code E_DEPRECATED: strlen(): Passing null to parameter #1 ($string) of type string is deprecated (line 109, D:\xampp81\htdocs\wp-content\plugins\updraftplus\includes\google-extensions.php)
+0772.789 (0) PHP event: code E_DEPRECATED: str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated (line 111, D:\xampp81\htdocs\wp-content\plugins\updraftplus\includes\Google\Http\Request.php)
+0774.276 (0) The time we have been running (774.2) is approaching the resumption interval (801) - increasing resumption interval to 805
+0774.333 (0) Googledrive chunked upload: 3.5 % uploaded (1048576 - increasing chunk size to 2048 KB - memory usage: 86.9 / 96)
+0774.514 (0) PHP event: code E_DEPRECATED: str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated (line 111, D:\xampp81\htdocs\wp-content\plugins\updraftplus\includes\Google\Http\Request.php)
+0775.565 (0) The time we have been running (775.1) is approaching the resumption interval (805) - increasing resumption interval to 806
+0775.670 (0) Googledrive chunked upload: 10.5 % uploaded (3145728 - increasing chunk size to 4096 KB - memory usage: 86.9 / 96)
+0775.820 (0) PHP event: code E_DEPRECATED: str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated (line 111, D:\xampp81\htdocs\wp-content\plugins\updraftplus\includes\Google\Http\Request.php)
+0778.951 (0) The time we have been running (778.9) is approaching the resumption interval (806) - increasing resumption interval to 809
+0778.997 (0) Googledrive chunked upload: 24.5 % uploaded (7340032 - increasing chunk size to 8192 KB - memory usage: 86.9 / 96)
+0779.060 (0) PHP event: code E_DEPRECATED: str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated (line 111, D:\xampp81\htdocs\wp-content\plugins\updraftplus\includes\Google\Http\Request.php)
+0784.608 (0) The time we have been running (784.3) is approaching the resumption interval (809) - increasing resumption interval to 815
+0784.654 (0) Googledrive chunked upload: 52.5 % uploaded (15728640)
+0784.736 (0) PHP event: code E_DEPRECATED: str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated (line 111, D:\xampp81\htdocs\wp-content\plugins\updraftplus\includes\Google\Http\Request.php)
+0789.308 (0) The time we have been running (789.2) is approaching the resumption interval (815) - increasing resumption interval to 820
+0789.430 (0) Googledrive chunked upload: 80.6 % uploaded (24117248)
+0789.503 (0) PHP event: code E_DEPRECATED: str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated (line 111, D:\xampp81\htdocs\wp-content\plugins\updraftplus\includes\Google\Http\Request.php)
+0793.413 (0) The time we have been running (793.3) is approaching the resumption interval (820) - increasing resumption interval to 824
+0793.612 (0) Googledrive chunked upload: 100 % uploaded (24117248)
+0793.731 (0) Google Drive: OK: Archive backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-uploads.zip uploaded in 21.78 seconds
+0793.863 (0) Recording as successfully uploaded: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-uploads.zip
+0793.973 (0) Deleting local file: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-uploads.zip: OK
+0794.518 (0) Google Drive: quota usage: used=81.6 MB, total=15360 MB, available=15278.4 MB
+0794.553 (0) Google Drive: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-others.zip: Attempting to upload to Google Drive (into folder id: 1RVPIxD3AsUTDgJRaSdro_8r2Gx7DxLZP)
+0794.589 (0) PHP event: code E_DEPRECATED: strlen(): Passing null to parameter #1 ($string) of type string is deprecated (line 109, D:\xampp81\htdocs\wp-content\plugins\updraftplus\includes\google-extensions.php)
+0795.297 (0) PHP event: code E_DEPRECATED: str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated (line 111, D:\xampp81\htdocs\wp-content\plugins\updraftplus\includes\Google\Http\Request.php)
+0799.008 (0) The time we have been running (798.7) is approaching the resumption interval (824) - increasing resumption interval to 829
+0799.095 (0) Googledrive chunked upload: 100 % uploaded
+0799.210 (0) Google Drive: OK: Archive backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-others.zip uploaded in 4.62 seconds
+0799.245 (0) Recording as successfully uploaded: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-others.zip
+0799.316 (0) Deleting local file: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-others.zip: OK
+0799.854 (0) Google Drive: quota usage: used=81.6 MB, total=15360 MB, available=15278.4 MB
+0799.877 (0) Google Drive: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-db.gz: Attempting to upload to Google Drive (into folder id: 1RVPIxD3AsUTDgJRaSdro_8r2Gx7DxLZP)
+0800.854 (0) PHP event: code E_DEPRECATED: strlen(): Passing null to parameter #1 ($string) of type string is deprecated (line 109, D:\xampp81\htdocs\wp-content\plugins\updraftplus\includes\google-extensions.php)
+0801.808 (0) PHP event: code E_DEPRECATED: str_replace(): Passing null to parameter #3 ($subject) of type array|string is deprecated (line 111, D:\xampp81\htdocs\wp-content\plugins\updraftplus\includes\Google\Http\Request.php)
+0805.449 (0) The time we have been running (805) is approaching the resumption interval (829) - increasing resumption interval to 836
+0805.540 (0) Googledrive chunked upload: 100 % uploaded
+0805.746 (0) Google Drive: OK: Archive backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-db.gz uploaded in 4.89 seconds
+0805.781 (0) Recording as successfully uploaded: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-db.gz
+0805.873 (0) Deleting local file: backup_2023-03-24-0545_Rancang_Bangun_Arsitek_32e4791f67a1-db.gz: OK
+0806.060 (0) Retain: beginning examination of existing backup sets; user setting: retain_files=2, retain_db=2
+0806.255 (0) Number of backup sets in history: 2; groups (db): 1
+0806.308 (0) Examining (for databases) backup set with group_id=0, nonce=32e4791f67a1, datestamp=1679611512 (Mar 23 2023 22:45:12)
+0806.412 (0) This backup set is the backup set just made, so will not be deleted.
+0806.412 (0) Examining (for databases) backup set with group_id=0, nonce=cd6f9eec1419, datestamp=1679611412 (Mar 23 2023 22:43:32)
+0806.412 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0806.485 (0) Number of backup sets in history: 2; groups (files): 1
+0806.608 (0) Examining (for files) backup set with nonce=32e4791f67a1, datestamp=1679611512 (Mar 23 2023 22:45:12)
+0806.608 (0) This backup set is the backup set just made, so will not be deleted.
+0806.736 (0) This backup set is the backup set just made, so will not be deleted.
+0806.736 (0) This backup set is the backup set just made, so will not be deleted.
+0806.736 (0) This backup set is the backup set just made, so will not be deleted.
+0806.736 (0) This backup set remains non-empty (f=1/d=1); will retain in history
+0806.831 (0) Examining (for files) backup set with nonce=cd6f9eec1419, datestamp=1679611412 (Mar 23 2023 22:43:32)
+0806.831 (0) This backup set remains non-empty (f=0/d=1); will retain in history
+0806.888 (0) Retain: saving new backup history (sets now: 2) and finishing retain operation
+0806.982 (0) Resume backup (32e4791f67a1, 0): finish run
+0807.095 (0) Decremented the semaphore (fd) by 1
+0807.207 (0) Semaphore (fd) unlocked
+0807.628 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0807.984 (0) No email will/can be sent - the user has not configured an email address.
+0808.041 (0) The backup apparently succeeded and is now complete
