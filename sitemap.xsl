@@ -210,14 +210,3 @@
 		</table>
 	</xsl:template>
 </xsl:stylesheet>
-
-<!--
-Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
-
-Object Caching 41/87 objects using disk
-Page Caching using disk: enhanced{w3tc_pagecache_reject_reason}
-Database Caching using disk (modification query)
-Fragment Caching 0/0 fragments using disk
-
-Served from: borongrancang.cloudns.nz @ 2023-04-23 23:29:36 by W3 Total Cache
--->
